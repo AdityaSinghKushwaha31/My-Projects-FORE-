@@ -1,0 +1,1001 @@
+Customer_ID,Customer_Name,Model,Screen_Size_Inch,Region,Purchase_Channel,Payment_Method,Warranty_Years,Purchase_Date,Unit_Price,Quantity,Discount_Percent,Promo_Applied,Final_Price,Repeat_Buyer,Days_Since_Last_Purchase,Return_Flag,Rating,CLV_Segment
+CUST0001,Kabir Sharma_1,Lloyd HD Ready,50,Central,Retail Store,Cash,3,15-06-2025,34493,1,0,No,34493,0,0,0,4,Low
+CUST0002,Krishna Gupta_2,Lloyd OLED,50,North,Online,Debit Card,1,09-09-2024,70193,1,0,No,70193,0,0,0,5,High
+CUST0003,Siddharth Nair_3,Lloyd Full HD,50,East,Distributor,UPI,3,04-07-2024,36115,1,0,No,36115,0,0,0,4,Medium
+CUST0004,Kabir Rao_4,Lloyd OLED,50,South,Distributor,EMI,2,01-05-2023,67058,1,0,No,67058,0,0,0,4,Medium
+CUST0005,Aditya Khanna_5,Lloyd OLED,55,West,Retail Store,UPI,3,25-11-2023,72388,1,0,No,72388,0,0,0,5,High
+CUST0006,Priya Verma_6,Lloyd Smart LED,55,South,Retail Store,Credit Card,2,25-01-2022,54659,1,0,No,54659,1,1283,0,5,High
+CUST0007,Aarav Singh_7,Lloyd Full HD,75,West,Distributor,EMI,3,05-06-2022,110511,1,0,No,110511,1,1398,0,5,High
+CUST0008,Rohan Gupta_8,Lloyd Full HD,40,South,Online,UPI,3,24-09-2023,20515,1,0,No,20515,0,0,0,5,Low
+CUST0009,Pooja Malhotra_9,Lloyd Full HD,32,Central,Distributor,Cash,1,16-12-2024,14947,1,0,No,14947,0,0,0,3,Low
+CUST0010,Aarav Rao_10,Lloyd OLED,50,Central,Retail Store,EMI,3,19-01-2022,66430,1,0,No,66430,0,0,0,5,Medium
+CUST0011,Rohan Rao_11,Lloyd HD Ready,75,Central,Online,EMI,1,01-05-2025,91463,1,0,No,91463,1,339,0,4,High
+CUST0012,Priya Gupta_12,Lloyd Full HD,40,North,Online,Debit Card,1,25-08-2022,21422,1,0,No,21422,0,0,0,5,Low
+CUST0013,Riya Khanna_13,Lloyd OLED,32,West,Distributor,Cash,1,04-10-2022,24977,1,0,No,24977,0,0,0,4,Low
+CUST0014,Krishna Sharma_14,Lloyd Smart LED,65,Central,Retail Store,Credit Card,1,04-06-2025,77650,1,0,No,77650,1,1073,0,4,High
+CUST0015,Ishaan Bose_15,Lloyd HD Ready,43,North,Distributor,UPI,3,15-01-2024,23446,1,0,No,23446,1,1031,0,4,High
+CUST0016,Ananya Jain_16,Lloyd Smart LED,55,West,Distributor,Debit Card,2,06-07-2023,51172,1,0,No,51172,1,298,0,4,High
+CUST0017,Aryan Chopra_17,Lloyd HD Ready,65,South,Distributor,UPI,2,22-03-2025,64972,1,0,No,64972,0,0,0,3,Medium
+CUST0018,Ananya Patel_18,Lloyd OLED,32,North,Online,Credit Card,2,01-10-2023,21961,2,0,No,43922,1,1056,0,5,High
+CUST0019,Aditya Iyer_19,Lloyd UltraHD 4K,65,East,Online,Credit Card,3,25-08-2022,87072,2,0,No,174144,0,0,0,5,High
+CUST0020,Kabir Desai_20,Lloyd HD Ready,43,North,Retail Store,EMI,1,24-09-2024,21167,1,0,No,21167,0,0,0,3,Low
+CUST0021,Sana Malhotra_21,Lloyd Smart LED,75,North,Retail Store,Credit Card,2,24-02-2022,132147,1,0,No,132147,1,799,0,4,High
+CUST0022,Krishna Verma_22,Lloyd OLED,32,West,Distributor,UPI,3,15-11-2023,22414,1,0,No,22414,1,45,0,4,High
+CUST0023,Riya Rao_23,Lloyd HD Ready,65,South,Distributor,Cash,1,19-04-2022,55854,1,0,No,55854,0,0,0,4,Medium
+CUST0024,Kabir Iyer_24,Lloyd UltraHD 4K,55,East,Distributor,Cash,2,22-04-2025,62185,1,0,No,62185,1,635,0,4,High
+CUST0025,Aditya Rao_25,Lloyd UltraHD 4K,55,Central,Retail Store,EMI,1,06-05-2025,65808,1,0,No,65808,0,0,0,5,Medium
+CUST0026,Arjun Malhotra_26,Lloyd Full HD,40,Central,Online,UPI,2,08-01-2023,19733,1,0,Yes,19733,0,0,0,4,Low
+CUST0027,Sana Khanna_27,Lloyd Full HD,65,North,Online,UPI,2,30-08-2024,69355,1,0,No,69355,1,1411,0,4,High
+CUST0028,Rohan Singh_28,Lloyd Smart LED,50,West,Distributor,Credit Card,2,20-07-2022,44475,1,0,No,44475,0,0,0,4,Medium
+CUST0029,Vivaan Gupta_29,Lloyd HD Ready,65,West,Distributor,UPI,1,28-04-2024,55780,1,0,No,55780,1,842,0,3,High
+CUST0030,Arjun Singh_30,Lloyd HD Ready,75,Central,Distributor,Debit Card,3,24-05-2023,97568,1,0,No,97568,0,0,0,4,High
+CUST0031,Siddharth Patel_31,Lloyd Full HD,32,East,Distributor,Credit Card,1,02-10-2022,14651,1,0,No,14651,0,0,1,3,Low
+CUST0032,Isha Jain_32,Lloyd HD Ready,32,South,Retail Store,Debit Card,2,30-07-2022,11673,1,0,No,11673,0,0,0,4,Low
+CUST0033,Riya Desai_33,Lloyd HD Ready,75,East,Online,EMI,1,19-05-2023,89155,1,0,No,89155,1,1186,0,4,High
+CUST0034,Ishaan Desai_34,Lloyd UltraHD 4K,65,South,Distributor,Cash,3,15-02-2025,99356,1,0,No,99356,0,0,1,5,High
+CUST0035,Sana Chopra_35,Lloyd Full HD,75,Central,Retail Store,EMI,1,04-12-2023,111341,1,0,No,111341,0,0,0,4,High
+CUST0036,Krishna Singh_36,Lloyd OLED,43,South,Distributor,Cash,3,11-02-2022,45577,1,0,No,45577,1,1365,0,4,High
+CUST0037,Mira Reddy_37,Lloyd Full HD,75,West,Distributor,EMI,3,11-11-2022,112999,1,0,No,112999,0,0,0,4,High
+CUST0038,Anjali Gupta_38,Lloyd OLED,55,North,Online,UPI,1,27-02-2024,83996,1,0,No,83996,0,0,0,5,High
+CUST0039,Ishaan Chatterjee_39,Lloyd UltraHD 4K,75,North,Distributor,Debit Card,2,25-11-2022,143480,2,0,No,286960,0,0,0,4,High
+CUST0040,Isha Jain_40,Lloyd Smart LED,32,Central,Online,Cash,3,06-11-2024,15794,1,0,No,15794,1,511,0,5,High
+CUST0041,Anjali Gupta_41,Lloyd HD Ready,55,West,Online,Credit Card,1,10-10-2022,43351,1,0,No,43351,0,0,0,4,Medium
+CUST0042,Ananya Verma_42,Lloyd UltraHD 4K,32,East,Online,Debit Card,3,31-07-2024,17736,1,0,No,17736,0,0,0,4,Low
+CUST0043,Siddharth Verma_43,Lloyd HD Ready,40,West,Retail Store,Credit Card,2,15-09-2022,17176,1,0,No,17176,1,924,0,3,High
+CUST0044,Ananya Iyer_44,Lloyd Smart LED,50,North,Retail Store,Debit Card,1,29-07-2023,42516,1,0,No,42516,0,0,0,4,Medium
+CUST0045,Krishna Singh_45,Lloyd Smart LED,32,North,Online,Debit Card,1,28-07-2023,16460,1,0,No,16460,0,0,0,4,Low
+CUST0046,Rohan Khanna_46,Lloyd UltraHD 4K,55,West,Distributor,EMI,1,04-09-2023,61852,1,0,No,61852,0,0,0,4,Medium
+CUST0047,Ananya Chopra_47,Lloyd Smart LED,40,West,Online,Cash,2,08-11-2024,22105,1,0,No,22105,1,1358,0,5,High
+CUST0048,Neha Iyer_48,Lloyd OLED,32,North,Distributor,Cash,3,16-04-2024,20968,1,0,No,20968,0,0,0,5,Low
+CUST0049,Riya Nair_49,Lloyd Smart LED,43,East,Online,Debit Card,1,27-02-2023,30601,1,0,No,30601,0,0,0,3,Low
+CUST0050,Krishna Nair_50,Lloyd HD Ready,75,Central,Distributor,UPI,3,28-01-2024,96546,1,0,No,96546,0,0,0,3,High
+CUST0051,Siddharth Rao_51,Lloyd HD Ready,50,Central,Retail Store,UPI,3,02-02-2024,32277,1,0,No,32277,0,0,0,4,Low
+CUST0052,Anjali Jain_52,Lloyd HD Ready,32,West,Distributor,Credit Card,2,09-01-2025,10860,1,0,No,10860,0,0,0,4,Low
+CUST0053,Kavya Bose_53,Lloyd HD Ready,40,Central,Online,Credit Card,1,28-02-2023,17379,1,0,No,17379,0,0,0,4,Low
+CUST0054,Kavya Iyer_54,Lloyd OLED,43,North,Retail Store,EMI,3,05-03-2023,39312,1,0,No,39312,0,0,0,5,Medium
+CUST0055,Sana Gupta_55,Lloyd Full HD,65,North,Distributor,Debit Card,1,23-07-2022,72602,1,0,No,72602,0,0,0,5,High
+CUST0056,Aryan Roy_56,Lloyd UltraHD 4K,40,West,Distributor,Credit Card,1,15-07-2022,24102,1,0,No,24102,0,0,0,4,Low
+CUST0057,Neha Singh_57,Lloyd HD Ready,75,West,Distributor,Credit Card,2,29-12-2023,86120,1,0,No,86120,0,0,0,5,High
+CUST0058,Vivaan Patel_58,Lloyd Smart LED,40,West,Distributor,Debit Card,1,12-10-2022,22186,1,0,No,22186,0,0,0,4,Low
+CUST0059,Aryan Reddy_59,Lloyd HD Ready,43,East,Distributor,EMI,1,15-07-2022,20944,1,0,No,20944,0,0,1,4,Low
+CUST0060,Priya Malhotra_60,Lloyd Smart LED,40,Central,Retail Store,Credit Card,3,03-11-2022,21488,1,0,No,21488,0,0,0,4,Low
+CUST0061,Aditya Iyer_61,Lloyd Smart LED,43,West,Retail Store,EMI,2,14-01-2022,29387,1,0,No,29387,1,298,0,4,High
+CUST0062,Isha Malhotra_62,Lloyd HD Ready,32,South,Retail Store,Cash,1,15-03-2025,11501,1,0,No,11501,1,443,0,4,High
+CUST0063,Riya Roy_63,Lloyd OLED,43,South,Retail Store,EMI,3,16-12-2024,42699,1,0,No,42699,0,0,0,4,Medium
+CUST0064,Krishna Rao_64,Lloyd Smart LED,43,North,Online,UPI,2,24-12-2023,29298,1,0,No,29298,0,0,0,4,Low
+CUST0065,Aarav Patel_65,Lloyd Smart LED,50,Central,Retail Store,UPI,2,19-02-2024,47973,1,0,No,47973,1,54,0,4,High
+CUST0066,Anjali Jain_66,Lloyd HD Ready,43,West,Distributor,EMI,3,18-05-2025,19930,2,0,No,39860,0,0,0,5,Medium
+CUST0067,Ananya Patel_67,Lloyd Smart LED,43,South,Distributor,UPI,3,13-06-2023,30021,1,0,No,30021,0,0,0,4,Low
+CUST0068,Arjun Bose_68,Lloyd Smart LED,65,Central,Retail Store,Cash,3,08-03-2024,78322,1,0,No,78322,1,345,1,4,High
+CUST0069,Ishaan Chatterjee_69,Lloyd HD Ready,32,North,Distributor,Debit Card,3,10-12-2022,10510,1,0,Yes,10510,0,0,0,4,Low
+CUST0070,Aarav Jain_70,Lloyd HD Ready,75,East,Retail Store,UPI,3,26-07-2025,93129,1,0,No,93129,0,0,0,4,High
+CUST0071,Pooja Reddy_71,Lloyd UltraHD 4K,50,Central,Distributor,UPI,1,28-07-2022,49903,1,0,No,49903,0,0,0,4,Medium
+CUST0072,Pooja Patel_72,Lloyd OLED,65,Central,Online,EMI,1,03-10-2023,131472,1,0,No,131472,1,600,0,5,High
+CUST0073,Arjun Roy_73,Lloyd OLED,55,East,Online,Cash,2,04-08-2025,80462,3,0,No,241386,1,754,0,4,High
+CUST0074,Mira Chopra_74,Lloyd Smart LED,32,Central,Retail Store,Debit Card,1,09-09-2022,17513,1,0,No,17513,0,0,0,5,Low
+CUST0075,Aryan Desai_75,Lloyd OLED,32,North,Retail Store,EMI,1,12-07-2025,20919,1,0,No,20919,0,0,0,4,Low
+CUST0076,Ishaan Rao_76,Lloyd Smart LED,55,North,Retail Store,EMI,1,28-09-2022,51302,1,0,No,51302,0,0,0,3,Medium
+CUST0077,Pooja Sharma_77,Lloyd UltraHD 4K,75,East,Distributor,Cash,3,08-07-2024,128176,1,0,No,128176,0,0,0,5,High
+CUST0078,Mira Kumar_78,Lloyd HD Ready,43,West,Retail Store,Debit Card,2,23-02-2023,20098,1,0,No,20098,1,1037,0,5,High
+CUST0079,Neha Sharma_79,Lloyd HD Ready,65,South,Online,Cash,2,05-03-2024,61695,1,0,No,61695,0,0,0,5,Medium
+CUST0080,Kabir Desai_80,Lloyd HD Ready,40,West,Distributor,Debit Card,2,19-05-2025,17310,1,0,No,17310,1,1329,0,4,High
+CUST0081,Arjun Gupta_81,Lloyd OLED,50,Central,Retail Store,Cash,2,04-01-2025,58534,1,0,No,58534,1,418,0,5,High
+CUST0082,Vivaan Gupta_82,Lloyd UltraHD 4K,40,South,Distributor,EMI,1,26-12-2023,28062,3,0,No,84186,0,0,0,5,High
+CUST0083,Kavya Singh_83,Lloyd OLED,55,East,Distributor,EMI,1,09-03-2023,84897,1,0,No,84897,1,751,0,5,High
+CUST0084,Aditya Naik_84,Lloyd OLED,32,East,Retail Store,Credit Card,3,19-04-2022,22034,1,0,No,22034,0,0,0,4,Low
+CUST0085,Aditya Rao_85,Lloyd UltraHD 4K,75,South,Distributor,UPI,2,03-10-2023,129090,2,0,No,258180,0,0,0,4,High
+CUST0086,Aryan Nair_86,Lloyd UltraHD 4K,32,North,Online,Cash,1,06-12-2024,16456,1,0,No,16456,1,473,0,5,High
+CUST0087,Neha Rao_87,Lloyd UltraHD 4K,50,South,Online,Credit Card,1,14-01-2023,45662,1,0,No,45662,0,0,0,4,Medium
+CUST0088,Ishaan Jain_88,Lloyd UltraHD 4K,32,Central,Distributor,UPI,3,24-01-2025,16295,1,0,No,16295,0,0,0,4,Low
+CUST0089,Pooja Malhotra_89,Lloyd HD Ready,32,North,Retail Store,Cash,3,15-08-2024,11516,1,0,No,11516,0,0,0,4,Low
+CUST0090,Priya Chopra_90,Lloyd Full HD,50,East,Distributor,Debit Card,3,13-04-2022,36634,1,0,No,36634,1,1028,0,4,High
+CUST0091,Anjali Chopra_91,Lloyd Full HD,65,South,Online,UPI,1,10-06-2024,71397,1,0,No,71397,0,0,0,4,High
+CUST0092,Arjun Iyer_92,Lloyd UltraHD 4K,65,West,Distributor,EMI,1,03-05-2024,102846,1,0,No,102846,0,0,0,2,High
+CUST0093,Sana Chatterjee_93,Lloyd Full HD,50,West,Distributor,Credit Card,3,15-03-2025,39949,1,0,No,39949,0,0,0,5,Medium
+CUST0094,Pooja Chatterjee_94,Lloyd Full HD,75,Central,Online,UPI,2,16-11-2024,119857,1,0,No,119857,0,0,1,4,High
+CUST0095,Kabir Gupta_95,Lloyd UltraHD 4K,55,West,Distributor,UPI,3,14-06-2023,56720,1,0,No,56720,0,0,0,4,Medium
+CUST0096,Siddharth Singh_96,Lloyd Full HD,32,South,Distributor,EMI,3,10-11-2023,13451,1,0,No,13451,1,1480,0,3,High
+CUST0097,Ananya Sharma_97,Lloyd OLED,75,South,Retail Store,Cash,3,15-09-2024,185570,1,0,No,185570,0,0,0,1,High
+CUST0098,Kavya Rao_98,Lloyd Smart LED,32,West,Retail Store,Debit Card,3,10-01-2025,14731,1,0,No,14731,1,1110,0,4,High
+CUST0099,Siddharth Khanna_99,Lloyd Smart LED,55,South,Online,EMI,1,04-03-2023,50277,1,0,No,50277,0,0,0,4,Medium
+CUST0100,Siddharth Sharma_100,Lloyd UltraHD 4K,65,Central,Online,Debit Card,2,01-04-2024,96975,1,0,No,96975,0,0,0,3,High
+CUST0101,Aditya Verma_101,Lloyd HD Ready,75,North,Online,Cash,3,31-03-2025,94352,1,0,No,94352,0,0,0,5,High
+CUST0102,Siddharth Singh_102,Lloyd UltraHD 4K,43,Central,Retail Store,UPI,2,20-07-2024,32269,1,0,No,32269,1,726,0,4,High
+CUST0103,Vivaan Kumar_103,Lloyd HD Ready,43,Central,Online,Debit Card,2,27-11-2024,21376,1,0,No,21376,0,0,0,4,Low
+CUST0104,Aditya Roy_104,Lloyd Smart LED,43,South,Online,Credit Card,2,26-05-2023,29490,1,0,Yes,29490,0,0,0,3,Low
+CUST0105,Siddharth Jain_105,Lloyd UltraHD 4K,65,North,Online,Credit Card,3,28-01-2023,85081,1,0,No,85081,0,0,0,1,High
+CUST0106,Neha Chopra_106,Lloyd OLED,65,South,Retail Store,EMI,1,14-12-2023,118448,1,0,No,118448,0,0,0,4,High
+CUST0107,Anjali Nair_107,Lloyd Full HD,55,East,Distributor,Cash,3,09-05-2023,44713,1,0,No,44713,0,0,0,5,Medium
+CUST0108,Kavya Khanna_108,Lloyd HD Ready,32,South,Online,EMI,2,08-05-2025,10571,1,0,No,10571,0,0,0,4,Low
+CUST0109,Neha Gupta_109,Lloyd Full HD,55,South,Distributor,EMI,2,02-07-2025,52010,1,0,No,52010,0,0,0,3,Medium
+CUST0110,Neha Bose_110,Lloyd Full HD,55,South,Online,EMI,1,17-04-2025,48666,1,0,No,48666,0,0,0,4,Medium
+CUST0111,Rohan Patel_111,Lloyd UltraHD 4K,65,North,Distributor,Credit Card,3,01-07-2023,98047,1,0,No,98047,0,0,0,4,High
+CUST0112,Kabir Bose_112,Lloyd Full HD,43,South,Retail Store,Credit Card,2,17-08-2023,24773,1,0,No,24773,0,0,0,5,Low
+CUST0113,Sana Bose_113,Lloyd OLED,40,North,Retail Store,EMI,1,24-01-2023,32954,1,0,No,32954,0,0,0,4,Low
+CUST0114,Priya Chatterjee_114,Lloyd Full HD,32,West,Online,Credit Card,2,07-06-2022,13059,1,0,No,13059,1,1000,0,4,High
+CUST0115,Vivaan Patel_115,Lloyd UltraHD 4K,65,East,Distributor,Cash,1,24-10-2024,86424,1,0,No,86424,0,0,0,4,High
+CUST0116,Vivaan Iyer_116,Lloyd OLED,43,North,Retail Store,EMI,1,16-06-2022,40143,1,0,No,40143,0,0,0,4,Medium
+CUST0117,Ananya Patel_117,Lloyd Smart LED,75,West,Online,Credit Card,3,17-08-2024,136017,3,0,No,408051,1,750,0,4,High
+CUST0118,Siddharth Chopra_118,Lloyd Full HD,40,North,Online,Debit Card,2,13-02-2023,20899,1,0,No,20899,0,0,0,3,Low
+CUST0119,Rohan Rao_119,Lloyd UltraHD 4K,40,North,Retail Store,EMI,3,12-05-2025,26043,1,0,No,26043,0,0,0,4,Low
+CUST0120,Riya Nair_120,Lloyd Smart LED,65,East,Retail Store,EMI,2,13-07-2022,85261,1,0,No,85261,0,0,0,4,High
+CUST0121,Priya Reddy_121,Lloyd Smart LED,50,Central,Online,Cash,3,23-08-2022,48707,2,0,No,97414,0,0,0,4,High
+CUST0122,Krishna Chatterjee_122,Lloyd HD Ready,32,Central,Distributor,UPI,2,19-12-2023,10513,1,0,No,10513,0,0,0,3,Low
+CUST0123,Siddharth Singh_123,Lloyd OLED,40,North,Distributor,UPI,3,19-03-2025,32211,2,0,No,64422,1,397,0,5,High
+CUST0124,Riya Rao_124,Lloyd Full HD,65,South,Distributor,Cash,1,28-03-2025,71279,1,0,No,71279,0,0,0,3,High
+CUST0125,Kabir Verma_125,Lloyd UltraHD 4K,65,West,Online,Cash,2,26-07-2025,99036,1,0,No,99036,0,0,0,5,High
+CUST0126,Anjali Sharma_126,Lloyd HD Ready,43,South,Retail Store,Cash,2,26-03-2024,23488,1,0,No,23488,0,0,0,5,Low
+CUST0127,Aditya Gupta_127,Lloyd OLED,75,South,Online,UPI,1,08-02-2023,174264,1,0,No,174264,0,0,0,5,High
+CUST0128,Ishaan Bose_128,Lloyd HD Ready,50,North,Retail Store,Cash,3,11-06-2024,34488,1,0,No,34488,1,371,0,4,High
+CUST0129,Neha Naik_129,Lloyd OLED,32,North,Distributor,Credit Card,2,09-11-2023,24437,1,0,No,24437,0,0,0,4,Low
+CUST0130,Rohan Iyer_130,Lloyd OLED,55,North,Distributor,EMI,2,27-08-2025,75264,2,0,No,150528,0,0,0,4,High
+CUST0131,Vivaan Reddy_131,Lloyd Full HD,75,North,Retail Store,EMI,3,09-03-2022,107985,1,0,No,107985,0,0,0,3,High
+CUST0132,Isha Sharma_132,Lloyd OLED,75,Central,Retail Store,Debit Card,1,29-03-2022,180348,1,0,No,180348,0,0,0,4,High
+CUST0133,Isha Jain_133,Lloyd HD Ready,43,North,Online,Debit Card,3,05-08-2022,23428,1,0,No,23428,0,0,0,3,Low
+CUST0134,Riya Mehta_134,Lloyd OLED,40,Central,Distributor,EMI,3,01-01-2022,31553,1,0,No,31553,0,0,0,5,Low
+CUST0135,Priya Rao_135,Lloyd Full HD,40,Central,Online,Credit Card,3,04-03-2025,21380,1,0,No,21380,0,0,0,3,Low
+CUST0136,Neha Nair_136,Lloyd Full HD,43,North,Online,UPI,2,20-05-2022,24868,1,0,No,24868,0,0,0,4,Low
+CUST0137,Rohan Mehta_137,Lloyd HD Ready,65,East,Online,UPI,1,10-09-2023,63970,1,0,No,63970,0,0,1,4,Medium
+CUST0138,Rohan Verma_138,Lloyd Smart LED,40,West,Distributor,Credit Card,1,13-05-2022,23192,2,0,No,46384,0,0,0,4,Medium
+CUST0139,Kavya Rao_139,Lloyd Smart LED,50,South,Online,UPI,3,27-06-2022,45673,1,0,No,45673,0,0,0,4,Medium
+CUST0140,Vivaan Kumar_140,Lloyd OLED,32,Central,Online,Cash,2,20-03-2024,24446,1,0,No,24446,0,0,0,3,Low
+CUST0141,Vivaan Verma_141,Lloyd UltraHD 4K,75,West,Online,EMI,3,15-01-2023,149154,1,0,No,149154,1,333,0,4,High
+CUST0142,Kavya Naik_142,Lloyd OLED,75,East,Online,EMI,2,26-06-2024,196791,1,0,No,196791,0,0,0,4,High
+CUST0143,Pooja Roy_143,Lloyd HD Ready,50,South,Online,Credit Card,2,20-10-2023,29355,1,0,No,29355,1,793,0,5,High
+CUST0144,Ishaan Verma_144,Lloyd HD Ready,40,South,Online,UPI,2,26-03-2023,17463,1,0,No,17463,0,0,0,4,Low
+CUST0145,Pooja Singh_145,Lloyd HD Ready,75,Central,Distributor,Debit Card,2,09-08-2023,85319,1,0,No,85319,0,0,0,5,High
+CUST0146,Ishaan Singh_146,Lloyd HD Ready,55,North,Online,Debit Card,1,08-04-2023,39123,1,0,No,39123,0,0,0,2,Medium
+CUST0147,Mira Singh_147,Lloyd HD Ready,32,East,Retail Store,UPI,2,16-09-2024,11584,1,0,No,11584,0,0,0,4,Low
+CUST0148,Siddharth Iyer_148,Lloyd Full HD,32,Central,Online,Debit Card,2,05-02-2025,13507,1,0,No,13507,1,1427,0,3,High
+CUST0149,Kabir Khanna_149,Lloyd Smart LED,75,East,Online,Credit Card,3,02-05-2022,129014,1,0,No,129014,0,0,0,1,High
+CUST0150,Siddharth Khanna_150,Lloyd HD Ready,43,North,Distributor,Credit Card,3,17-01-2022,23505,1,0,No,23505,0,0,0,4,Low
+CUST0151,Mira Verma_151,Lloyd UltraHD 4K,75,North,Distributor,UPI,1,04-05-2025,130691,2,0,No,261382,0,0,0,4,High
+CUST0152,Mira Singh_152,Lloyd UltraHD 4K,43,Central,Retail Store,Debit Card,3,23-11-2022,33973,1,0,No,33973,1,845,0,4,High
+CUST0153,Priya Khanna_153,Lloyd UltraHD 4K,75,North,Retail Store,Credit Card,2,14-11-2022,137889,1,0,No,137889,0,0,0,4,High
+CUST0154,Kavya Roy_154,Lloyd UltraHD 4K,55,West,Distributor,Credit Card,3,19-03-2024,56606,1,0,No,56606,0,0,0,5,Medium
+CUST0155,Ananya Jain_155,Lloyd Full HD,65,South,Distributor,Cash,1,29-06-2025,68525,1,0,No,68525,0,0,0,4,Medium
+CUST0156,Rohan Kumar_156,Lloyd UltraHD 4K,32,Central,Online,Cash,3,18-05-2023,19144,1,0,No,19144,0,0,0,4,Low
+CUST0157,Siddharth Jain_157,Lloyd HD Ready,75,East,Distributor,Credit Card,3,29-04-2022,98632,1,0,No,98632,0,0,0,4,High
+CUST0158,Isha Nair_158,Lloyd OLED,55,West,Retail Store,UPI,1,11-12-2023,85909,1,0,No,85909,0,0,0,4,High
+CUST0159,Arjun Chatterjee_159,Lloyd UltraHD 4K,43,Central,Online,EMI,1,14-02-2022,36009,2,0,No,72018,0,0,0,3,High
+CUST0160,Ananya Singh_160,Lloyd Full HD,43,North,Retail Store,EMI,2,10-11-2022,24233,1,0,No,24233,0,0,0,4,Low
+CUST0161,Aarav Chatterjee_161,Lloyd Full HD,32,North,Online,Credit Card,3,17-04-2025,13379,1,0,No,13379,0,0,0,4,Low
+CUST0162,Mira Khanna_162,Lloyd UltraHD 4K,50,North,Distributor,Credit Card,2,22-02-2023,50900,1,0,No,50900,0,0,0,5,Medium
+CUST0163,Kabir Singh_163,Lloyd OLED,75,North,Retail Store,Credit Card,3,10-07-2023,183016,1,0,No,183016,0,0,0,4,High
+CUST0164,Anjali Chopra_164,Lloyd UltraHD 4K,40,East,Online,UPI,3,06-01-2025,25393,1,0,No,25393,0,0,0,4,Low
+CUST0165,Pooja Jain_165,Lloyd Full HD,43,West,Online,Cash,2,22-11-2022,24987,1,0,No,24987,0,0,0,4,Low
+CUST0166,Aryan Desai_166,Lloyd Smart LED,65,South,Distributor,Credit Card,3,30-05-2023,87255,1,0,Yes,87255,0,0,0,4,High
+CUST0167,Aditya Gupta_167,Lloyd HD Ready,65,East,Distributor,Credit Card,3,02-08-2022,62107,1,0,No,62107,1,141,0,4,High
+CUST0168,Sana Mehta_168,Lloyd Full HD,43,East,Distributor,Debit Card,3,15-03-2022,23997,1,0,No,23997,0,0,1,4,Low
+CUST0169,Ishaan Chatterjee_169,Lloyd UltraHD 4K,50,South,Retail Store,UPI,1,24-05-2023,48993,1,0,No,48993,1,907,0,4,High
+CUST0170,Anjali Mehta_170,Lloyd HD Ready,50,South,Online,Credit Card,2,28-11-2022,32466,1,0,No,32466,0,0,0,3,Low
+CUST0171,Mira Roy_171,Lloyd UltraHD 4K,55,North,Distributor,Debit Card,1,21-01-2025,61836,1,0,No,61836,1,1059,1,3,High
+CUST0172,Aarav Rao_172,Lloyd UltraHD 4K,65,East,Retail Store,EMI,2,19-11-2023,88505,1,0,No,88505,0,0,0,4,High
+CUST0173,Arjun Patel_173,Lloyd Smart LED,55,Central,Retail Store,Credit Card,2,19-10-2023,58337,1,0,No,58337,0,0,0,4,Medium
+CUST0174,Aryan Jain_174,Lloyd HD Ready,65,South,Retail Store,Credit Card,3,16-07-2025,55502,1,0,Yes,55502,0,0,0,4,Medium
+CUST0175,Kabir Patel_175,Lloyd HD Ready,75,South,Distributor,Debit Card,2,24-10-2024,89186,1,0,No,89186,1,959,0,4,High
+CUST0176,Anjali Nair_176,Lloyd Smart LED,75,West,Distributor,UPI,1,07-03-2025,135581,1,0,No,135581,0,0,0,4,High
+CUST0177,Krishna Mehta_177,Lloyd Full HD,40,Central,Online,Credit Card,1,08-06-2025,20449,1,0,No,20449,0,0,0,5,Low
+CUST0178,Mira Chopra_178,Lloyd UltraHD 4K,75,Central,Online,EMI,1,23-08-2023,134168,1,0,No,134168,0,0,0,5,High
+CUST0179,Ananya Chopra_179,Lloyd OLED,40,South,Distributor,Credit Card,2,11-12-2024,34946,1,0,No,34946,0,0,1,4,Low
+CUST0180,Krishna Roy_180,Lloyd UltraHD 4K,75,North,Retail Store,EMI,1,21-11-2022,142619,1,0,No,142619,0,0,0,1,High
+CUST0181,Neha Jain_181,Lloyd UltraHD 4K,32,West,Retail Store,Cash,2,18-09-2024,18617,2,0,No,37234,0,0,0,4,Medium
+CUST0182,Vivaan Singh_182,Lloyd Full HD,75,Central,Retail Store,Cash,1,18-12-2023,115236,1,0,No,115236,0,0,0,4,High
+CUST0183,Priya Jain_183,Lloyd UltraHD 4K,55,South,Online,EMI,1,24-12-2023,62312,3,0,No,186936,1,732,0,4,High
+CUST0184,Vivaan Sharma_184,Lloyd Smart LED,43,Central,Retail Store,UPI,2,04-10-2022,29918,1,0,No,29918,0,0,0,4,Low
+CUST0185,Ananya Nair_185,Lloyd Smart LED,55,West,Online,Credit Card,1,20-06-2023,51686,1,0,No,51686,0,0,0,3,Medium
+CUST0186,Krishna Reddy_186,Lloyd HD Ready,43,West,Online,Credit Card,3,01-06-2022,20417,1,0,No,20417,0,0,0,4,Low
+CUST0187,Riya Rao_187,Lloyd OLED,50,East,Retail Store,Cash,2,12-08-2024,63240,1,0,No,63240,0,0,0,3,Medium
+CUST0188,Priya Rao_188,Lloyd UltraHD 4K,55,South,Retail Store,EMI,2,16-09-2022,62183,1,0,No,62183,0,0,0,4,Medium
+CUST0189,Aarav Patel_189,Lloyd UltraHD 4K,50,West,Distributor,Credit Card,2,20-11-2022,49398,2,0,Yes,98796,0,0,0,4,High
+CUST0190,Aditya Nair_190,Lloyd Full HD,40,East,Distributor,Credit Card,3,13-10-2024,19357,1,0,No,19357,0,0,0,4,Low
+CUST0191,Anjali Verma_191,Lloyd Smart LED,40,East,Retail Store,UPI,2,18-05-2024,21281,1,0,No,21281,0,0,0,2,Low
+CUST0192,Sana Khanna_192,Lloyd OLED,32,Central,Online,Debit Card,1,06-04-2025,22933,1,0,No,22933,0,0,0,4,Low
+CUST0193,Anjali Nair_193,Lloyd HD Ready,75,Central,Online,Cash,1,19-11-2023,87941,1,0,No,87941,0,0,0,4,High
+CUST0194,Priya Nair_194,Lloyd Smart LED,55,East,Online,Cash,1,06-11-2022,58253,2,0,No,116506,0,0,0,4,High
+CUST0195,Vivaan Mehta_195,Lloyd HD Ready,50,Central,Online,Debit Card,2,13-03-2024,29130,1,0,No,29130,1,875,0,4,High
+CUST0196,Sana Verma_196,Lloyd Full HD,43,West,Online,Credit Card,1,15-12-2024,26131,1,0,No,26131,0,0,0,4,Low
+CUST0197,Sana Chopra_197,Lloyd Full HD,40,North,Distributor,UPI,2,12-09-2023,21944,1,0,No,21944,0,0,0,4,Low
+CUST0198,Siddharth Patel_198,Lloyd UltraHD 4K,75,West,Retail Store,UPI,1,18-04-2023,131773,1,0,No,131773,0,0,0,4,High
+CUST0199,Sana Rao_199,Lloyd OLED,40,East,Distributor,Cash,3,12-08-2025,33472,2,0,No,66944,1,973,0,4,High
+CUST0200,Priya Malhotra_200,Lloyd HD Ready,43,East,Online,UPI,3,06-04-2023,19703,1,0,No,19703,0,0,0,4,Low
+CUST0201,Aryan Gupta_201,Lloyd Smart LED,75,West,Online,Debit Card,3,24-03-2024,131687,1,0,No,131687,0,0,0,4,High
+CUST0202,Ishaan Reddy_202,Lloyd Full HD,75,Central,Online,Credit Card,3,25-04-2024,111251,1,0,No,111251,0,0,0,4,High
+CUST0203,Priya Sharma_203,Lloyd UltraHD 4K,50,Central,Online,Debit Card,2,10-03-2025,48371,1,0,No,48371,0,0,0,4,Medium
+CUST0204,Ishaan Kumar_204,Lloyd UltraHD 4K,50,East,Retail Store,EMI,1,29-10-2023,49472,1,0,No,49472,0,0,0,4,Medium
+CUST0205,Priya Gupta_205,Lloyd HD Ready,55,South,Online,Cash,3,19-09-2022,42873,1,0,No,42873,1,308,0,4,High
+CUST0206,Krishna Reddy_206,Lloyd Full HD,55,Central,Retail Store,UPI,2,18-06-2025,44893,1,0,No,44893,1,411,0,1,High
+CUST0207,Kabir Iyer_207,Lloyd OLED,65,West,Online,EMI,3,21-12-2022,110941,1,0,No,110941,0,0,0,4,High
+CUST0208,Vivaan Naik_208,Lloyd Full HD,65,Central,Retail Store,UPI,3,09-02-2024,78647,1,0,No,78647,0,0,0,4,High
+CUST0209,Siddharth Chopra_209,Lloyd HD Ready,32,West,Distributor,Credit Card,2,29-06-2022,11648,1,0,No,11648,1,42,0,4,High
+CUST0210,Riya Desai_210,Lloyd HD Ready,40,East,Online,Credit Card,2,07-03-2022,18119,1,0,No,18119,1,332,0,4,High
+CUST0211,Arjun Gupta_211,Lloyd Full HD,55,Central,Retail Store,Credit Card,1,30-03-2024,48643,1,0,No,48643,1,189,0,5,High
+CUST0212,Siddharth Sharma_212,Lloyd HD Ready,50,West,Distributor,UPI,1,20-06-2022,34084,1,0,No,34084,0,0,0,4,Low
+CUST0213,Rohan Iyer_213,Lloyd Full HD,43,East,Online,EMI,3,19-04-2023,25349,1,0,No,25349,1,183,0,5,High
+CUST0214,Ananya Jain_214,Lloyd Smart LED,50,South,Online,Credit Card,3,18-06-2023,47185,1,0,No,47185,0,0,0,4,Medium
+CUST0215,Aditya Jain_215,Lloyd Full HD,40,West,Online,EMI,1,04-02-2025,21831,1,0,No,21831,0,0,0,4,Low
+CUST0216,Sana Roy_216,Lloyd Full HD,65,South,Retail Store,UPI,1,15-03-2023,74478,2,0,No,148956,1,783,0,3,High
+CUST0217,Isha Rao_217,Lloyd HD Ready,50,South,Retail Store,EMI,2,14-04-2024,30118,1,0,No,30118,0,0,0,4,Low
+CUST0218,Ananya Sharma_218,Lloyd HD Ready,32,North,Distributor,UPI,1,15-08-2022,10954,3,0,No,32862,0,0,0,1,Low
+CUST0219,Kabir Jain_219,Lloyd UltraHD 4K,40,Central,Retail Store,UPI,1,18-03-2023,24281,1,0,No,24281,0,0,0,4,Low
+CUST0220,Ishaan Khanna_220,Lloyd UltraHD 4K,65,West,Retail Store,Cash,3,31-01-2023,89182,1,0,No,89182,0,0,0,4,High
+CUST0221,Krishna Verma_221,Lloyd Smart LED,43,South,Online,UPI,1,29-12-2023,28849,1,0,No,28849,0,0,0,4,Low
+CUST0222,Kabir Malhotra_222,Lloyd UltraHD 4K,65,North,Online,UPI,3,25-03-2022,94854,1,0,No,94854,0,0,0,4,High
+CUST0223,Priya Desai_223,Lloyd Full HD,75,East,Online,Debit Card,1,02-11-2024,112060,1,0,No,112060,1,210,1,5,High
+CUST0224,Ananya Bose_224,Lloyd HD Ready,32,West,Online,Credit Card,2,24-11-2023,11309,1,0,No,11309,1,1233,0,3,High
+CUST0225,Mira Roy_225,Lloyd UltraHD 4K,40,South,Online,Cash,1,08-05-2023,26390,1,0,No,26390,0,0,0,3,Low
+CUST0226,Kabir Iyer_226,Lloyd UltraHD 4K,43,Central,Online,Cash,1,15-07-2025,30149,1,0,No,30149,0,0,0,4,Low
+CUST0227,Kavya Chopra_227,Lloyd Smart LED,32,North,Online,Cash,1,17-02-2025,14766,1,0,No,14766,0,0,0,4,Low
+CUST0228,Krishna Verma_228,Lloyd Smart LED,65,South,Distributor,Debit Card,3,27-08-2024,80166,1,0,No,80166,0,0,0,4,High
+CUST0229,Priya Sharma_229,Lloyd Full HD,32,Central,Distributor,UPI,2,19-12-2022,13818,1,0,No,13818,0,0,0,4,Low
+CUST0230,Pooja Rao_230,Lloyd HD Ready,40,South,Distributor,Credit Card,1,16-12-2024,15886,1,0,No,15886,0,0,0,3,Low
+CUST0231,Rohan Desai_231,Lloyd Smart LED,55,West,Distributor,EMI,3,09-02-2022,53325,1,0,Yes,53325,0,0,0,4,Medium
+CUST0232,Priya Singh_232,Lloyd UltraHD 4K,32,West,Online,UPI,2,02-10-2023,17251,1,0,No,17251,0,0,0,5,Low
+CUST0233,Ananya Malhotra_233,Lloyd HD Ready,75,West,Distributor,Debit Card,3,22-06-2022,97413,1,0,No,97413,0,0,0,3,High
+CUST0234,Ananya Patel_234,Lloyd HD Ready,32,North,Online,UPI,3,16-09-2022,10381,1,0,No,10381,0,0,0,5,Low
+CUST0235,Arjun Roy_235,Lloyd UltraHD 4K,65,West,Distributor,UPI,2,01-06-2023,96588,1,0,No,96588,0,0,0,5,High
+CUST0236,Arjun Bose_236,Lloyd Smart LED,65,Central,Retail Store,Debit Card,1,31-12-2023,88517,1,0,No,88517,0,0,0,3,High
+CUST0237,Ananya Iyer_237,Lloyd UltraHD 4K,43,South,Distributor,Cash,3,07-06-2023,34767,1,0,No,34767,0,0,0,4,Low
+CUST0238,Arjun Rao_238,Lloyd HD Ready,65,East,Distributor,Cash,3,18-04-2024,66393,1,0,No,66393,0,0,0,4,Medium
+CUST0239,Aryan Chopra_239,Lloyd OLED,50,Central,Online,Credit Card,1,27-04-2022,58213,1,0,No,58213,1,406,0,4,High
+CUST0240,Priya Iyer_240,Lloyd OLED,40,Central,Distributor,Credit Card,1,03-07-2022,31374,1,0,No,31374,0,0,0,4,Low
+CUST0241,Ishaan Malhotra_241,Lloyd Full HD,40,West,Retail Store,Cash,2,13-02-2025,21725,1,0,No,21725,1,805,0,4,High
+CUST0242,Kavya Mehta_242,Lloyd UltraHD 4K,55,North,Online,EMI,2,11-06-2022,60499,1,0,No,60499,1,1221,0,4,High
+CUST0243,Isha Rao_243,Lloyd UltraHD 4K,55,South,Online,UPI,2,27-06-2023,61768,1,0,No,61768,0,0,0,3,Medium
+CUST0244,Aarav Mehta_244,Lloyd Full HD,40,North,Distributor,EMI,1,14-06-2025,20841,1,0,No,20841,1,1267,0,5,High
+CUST0245,Arjun Chopra_245,Lloyd Full HD,75,South,Online,UPI,3,18-04-2024,114027,1,0,No,114027,0,0,0,4,High
+CUST0246,Priya Khanna_246,Lloyd Full HD,55,South,Online,Cash,3,25-12-2024,51777,1,0,No,51777,0,0,0,4,Medium
+CUST0247,Mira Kumar_247,Lloyd HD Ready,43,North,Online,Credit Card,2,29-12-2024,23507,1,0,No,23507,0,0,0,5,Low
+CUST0248,Riya Chatterjee_248,Lloyd UltraHD 4K,65,Central,Online,Credit Card,1,23-03-2023,97890,1,0,No,97890,0,0,0,4,High
+CUST0249,Riya Chopra_249,Lloyd HD Ready,40,South,Online,EMI,3,20-02-2023,16127,1,0,No,16127,1,1203,0,4,High
+CUST0250,Pooja Naik_250,Lloyd Full HD,55,North,Online,Credit Card,2,16-06-2023,51290,1,0,No,51290,1,45,0,4,High
+CUST0251,Ishaan Singh_251,Lloyd UltraHD 4K,40,South,Retail Store,Cash,3,17-03-2023,23525,1,0,No,23525,0,0,0,4,Low
+CUST0252,Arjun Roy_252,Lloyd HD Ready,50,East,Distributor,EMI,3,08-01-2024,30435,1,0,No,30435,0,0,0,2,Low
+CUST0253,Mira Kumar_253,Lloyd HD Ready,32,Central,Retail Store,UPI,1,09-04-2023,12369,1,0,No,12369,0,0,0,5,Low
+CUST0254,Aditya Gupta_254,Lloyd Full HD,65,West,Online,Credit Card,1,31-01-2023,69929,1,0,No,69929,1,1144,0,3,High
+CUST0255,Arjun Gupta_255,Lloyd UltraHD 4K,40,South,Online,Debit Card,3,12-12-2023,24392,2,0,No,48784,0,0,0,4,Medium
+CUST0256,Rohan Nair_256,Lloyd Full HD,32,East,Distributor,Credit Card,2,30-01-2023,12792,1,0,No,12792,0,0,0,4,Low
+CUST0257,Aarav Verma_257,Lloyd UltraHD 4K,55,West,Retail Store,UPI,1,22-11-2022,65290,1,0,No,65290,0,0,0,2,Medium
+CUST0258,Siddharth Naik_258,Lloyd OLED,32,West,Distributor,EMI,3,19-01-2025,22950,1,0,No,22950,0,0,0,5,Low
+CUST0259,Mira Singh_259,Lloyd Smart LED,65,South,Retail Store,UPI,1,20-01-2024,88618,1,0,No,88618,1,1173,0,5,High
+CUST0260,Riya Bose_260,Lloyd Smart LED,40,North,Online,Debit Card,1,29-12-2024,22356,1,0,No,22356,0,0,0,4,Low
+CUST0261,Kavya Chopra_261,Lloyd Smart LED,50,South,Distributor,Cash,1,04-04-2025,47257,1,0,No,47257,0,0,0,4,Medium
+CUST0262,Isha Naik_262,Lloyd Full HD,75,East,Distributor,Credit Card,3,04-10-2023,115776,1,0,No,115776,0,0,0,3,High
+CUST0263,Isha Gupta_263,Lloyd OLED,55,West,Online,EMI,2,02-08-2022,76636,2,0,No,153272,1,282,0,4,High
+CUST0264,Aryan Sharma_264,Lloyd UltraHD 4K,40,South,Distributor,Cash,2,04-01-2023,25354,1,0,No,25354,0,0,0,4,Low
+CUST0265,Kabir Bose_265,Lloyd HD Ready,65,North,Retail Store,UPI,2,18-02-2022,57716,1,0,No,57716,1,1113,0,4,High
+CUST0266,Siddharth Reddy_266,Lloyd UltraHD 4K,55,South,Retail Store,EMI,1,11-12-2024,66695,1,0,No,66695,1,1319,1,5,High
+CUST0267,Pooja Chatterjee_267,Lloyd HD Ready,43,Central,Retail Store,Cash,3,05-08-2025,22031,1,0,No,22031,0,0,0,4,Low
+CUST0268,Vivaan Rao_268,Lloyd UltraHD 4K,32,North,Retail Store,EMI,1,16-06-2025,19094,1,0,No,19094,1,1462,0,5,High
+CUST0269,Siddharth Patel_269,Lloyd OLED,75,East,Online,Debit Card,2,13-05-2022,176521,1,0,No,176521,0,0,0,4,High
+CUST0270,Riya Nair_270,Lloyd HD Ready,65,West,Distributor,Debit Card,2,25-09-2024,64582,1,0,No,64582,0,0,0,4,Medium
+CUST0271,Riya Roy_271,Lloyd Full HD,43,South,Retail Store,Credit Card,3,25-02-2024,27043,1,0,No,27043,1,60,0,5,High
+CUST0272,Anjali Malhotra_272,Lloyd UltraHD 4K,40,North,Online,Credit Card,1,04-04-2025,26775,1,0,No,26775,1,1074,0,4,High
+CUST0273,Ananya Chatterjee_273,Lloyd UltraHD 4K,50,Central,Distributor,Debit Card,2,08-01-2023,53764,1,0,No,53764,0,0,0,5,Medium
+CUST0274,Mira Roy_274,Lloyd HD Ready,55,North,Distributor,EMI,3,24-04-2023,38949,3,0,No,116847,1,760,0,4,High
+CUST0275,Priya Rao_275,Lloyd Full HD,32,Central,Online,Debit Card,1,11-04-2024,12772,1,0,No,12772,0,0,0,3,Low
+CUST0276,Riya Reddy_276,Lloyd Full HD,55,East,Online,Credit Card,1,12-10-2023,49343,1,0,No,49343,0,0,0,5,Medium
+CUST0277,Neha Chatterjee_277,Lloyd OLED,75,West,Retail Store,Debit Card,2,13-11-2023,191855,1,0,No,191855,0,0,0,4,High
+CUST0278,Krishna Gupta_278,Lloyd Full HD,40,East,Distributor,Debit Card,2,19-11-2023,20493,1,0,No,20493,0,0,0,5,Low
+CUST0279,Krishna Roy_279,Lloyd Full HD,55,South,Distributor,EMI,1,16-08-2025,44991,1,0,No,44991,1,318,0,5,High
+CUST0280,Neha Gupta_280,Lloyd Full HD,32,North,Online,Cash,1,23-03-2022,13782,1,0,No,13782,1,527,0,2,High
+CUST0281,Krishna Chatterjee_281,Lloyd Smart LED,40,Central,Distributor,Credit Card,2,28-03-2022,22694,2,0,No,45388,1,1458,0,4,High
+CUST0282,Aditya Mehta_282,Lloyd OLED,55,Central,Retail Store,EMI,1,13-08-2022,78428,2,0,No,156856,0,0,0,4,High
+CUST0283,Siddharth Jain_283,Lloyd UltraHD 4K,50,North,Distributor,Debit Card,2,16-01-2022,50668,1,0,No,50668,0,0,0,4,Medium
+CUST0284,Ananya Kumar_284,Lloyd HD Ready,65,North,Online,Debit Card,1,01-04-2024,64142,1,0,No,64142,0,0,0,4,Medium
+CUST0285,Anjali Singh_285,Lloyd UltraHD 4K,40,South,Online,Cash,2,12-06-2022,24451,1,0,No,24451,1,577,0,4,High
+CUST0286,Aryan Nair_286,Lloyd OLED,65,East,Retail Store,Credit Card,3,29-05-2023,120127,2,0,No,240254,0,0,0,4,High
+CUST0287,Siddharth Iyer_287,Lloyd HD Ready,40,Central,Retail Store,Credit Card,2,16-12-2022,16068,1,0,No,16068,0,0,0,4,Low
+CUST0288,Aryan Chopra_288,Lloyd OLED,50,South,Distributor,UPI,2,12-11-2023,60462,1,0,No,60462,0,0,0,3,Medium
+CUST0289,Aditya Bose_289,Lloyd Full HD,65,East,Distributor,Credit Card,3,20-01-2025,77520,1,0,No,77520,0,0,0,5,High
+CUST0290,Priya Kumar_290,Lloyd HD Ready,43,South,Online,Cash,1,30-06-2022,23138,1,0,No,23138,0,0,0,4,Low
+CUST0291,Anjali Chatterjee_291,Lloyd Full HD,32,Central,Retail Store,UPI,3,13-01-2024,13419,1,0,No,13419,0,0,0,5,Low
+CUST0292,Priya Verma_292,Lloyd UltraHD 4K,43,North,Retail Store,UPI,2,17-08-2025,34462,1,0,No,34462,0,0,0,4,Low
+CUST0293,Rohan Bose_293,Lloyd UltraHD 4K,55,North,Retail Store,Debit Card,1,22-10-2023,65744,1,0,No,65744,0,0,0,3,Medium
+CUST0294,Isha Khanna_294,Lloyd HD Ready,50,East,Distributor,Debit Card,3,27-04-2025,34310,2,0,No,68620,0,0,0,4,Medium
+CUST0295,Aarav Khanna_295,Lloyd HD Ready,43,West,Retail Store,Credit Card,1,30-08-2025,20087,1,0,No,20087,1,990,0,3,High
+CUST0296,Isha Naik_296,Lloyd OLED,40,East,Online,UPI,1,08-05-2023,36671,1,0,No,36671,0,0,1,5,Medium
+CUST0297,Aarav Desai_297,Lloyd OLED,55,West,Online,Debit Card,3,11-07-2024,77636,1,0,No,77636,0,0,0,2,High
+CUST0298,Arjun Iyer_298,Lloyd Full HD,55,South,Distributor,Cash,1,08-05-2022,46231,1,0,No,46231,0,0,0,4,Medium
+CUST0299,Priya Rao_299,Lloyd HD Ready,43,South,Distributor,Debit Card,3,19-07-2023,19582,1,0,No,19582,0,0,0,4,Low
+CUST0300,Anjali Malhotra_300,Lloyd UltraHD 4K,43,Central,Retail Store,Debit Card,2,25-04-2025,32754,1,0,No,32754,1,161,0,4,High
+CUST0301,Siddharth Naik_301,Lloyd OLED,50,West,Distributor,UPI,1,04-07-2023,59333,1,0,No,59333,0,0,0,3,Medium
+CUST0302,Siddharth Jain_302,Lloyd OLED,32,Central,Online,UPI,2,29-03-2023,21818,2,0,No,43636,0,0,0,4,Medium
+CUST0303,Priya Naik_303,Lloyd UltraHD 4K,43,North,Retail Store,EMI,2,16-04-2023,31665,1,0,No,31665,0,0,0,4,Low
+CUST0304,Aarav Iyer_304,Lloyd OLED,75,West,Online,Cash,1,14-09-2024,194717,1,0,No,194717,0,0,0,4,High
+CUST0305,Ananya Iyer_305,Lloyd Full HD,43,East,Retail Store,UPI,3,08-01-2024,27596,1,0,No,27596,0,0,0,5,Low
+CUST0306,Ishaan Chatterjee_306,Lloyd HD Ready,65,North,Distributor,Credit Card,1,12-08-2022,58829,1,0,No,58829,0,0,0,4,Medium
+CUST0307,Aryan Malhotra_307,Lloyd UltraHD 4K,40,North,Retail Store,Cash,2,03-06-2022,27621,1,0,No,27621,0,0,0,4,Low
+CUST0308,Anjali Sharma_308,Lloyd HD Ready,75,East,Retail Store,Cash,2,14-07-2023,98230,1,0,No,98230,0,0,0,4,High
+CUST0309,Isha Khanna_309,Lloyd OLED,75,North,Online,UPI,3,17-12-2022,193127,1,0,No,193127,0,0,0,3,High
+CUST0310,Kavya Sharma_310,Lloyd OLED,65,West,Online,Cash,1,16-03-2025,113920,1,0,No,113920,0,0,0,5,High
+CUST0311,Aditya Bose_311,Lloyd UltraHD 4K,65,Central,Retail Store,UPI,2,15-12-2022,97341,3,0,No,292023,0,0,0,4,High
+CUST0312,Aryan Chatterjee_312,Lloyd Full HD,55,North,Distributor,Debit Card,2,01-07-2022,51901,1,0,No,51901,0,0,0,3,Medium
+CUST0313,Ishaan Verma_313,Lloyd Smart LED,32,West,Distributor,EMI,2,29-09-2023,16640,1,0,No,16640,0,0,0,4,Low
+CUST0314,Krishna Iyer_314,Lloyd UltraHD 4K,40,South,Online,Debit Card,3,14-10-2024,24953,1,0,Yes,24953,1,1377,0,4,High
+CUST0315,Ananya Chopra_315,Lloyd Smart LED,50,West,Distributor,UPI,2,28-06-2022,44987,1,0,No,44987,0,0,0,4,Medium
+CUST0316,Riya Kumar_316,Lloyd Smart LED,75,Central,Online,UPI,2,28-11-2024,132192,1,0,No,132192,0,0,0,4,High
+CUST0317,Ananya Iyer_317,Lloyd Full HD,50,West,Distributor,Debit Card,1,11-02-2024,38635,1,0,No,38635,0,0,0,2,Medium
+CUST0318,Krishna Bose_318,Lloyd Smart LED,43,East,Retail Store,Credit Card,1,12-06-2024,27753,1,0,No,27753,0,0,0,4,Low
+CUST0319,Krishna Singh_319,Lloyd Smart LED,43,Central,Online,Credit Card,2,23-10-2024,28882,1,0,No,28882,1,887,0,5,High
+CUST0320,Neha Sharma_320,Lloyd Full HD,50,South,Online,Credit Card,2,12-10-2024,40842,1,0,No,40842,0,0,0,3,Medium
+CUST0321,Anjali Verma_321,Lloyd Smart LED,43,East,Retail Store,UPI,1,05-03-2022,32113,1,0,No,32113,0,0,0,5,Low
+CUST0322,Sana Gupta_322,Lloyd Smart LED,32,West,Online,Cash,3,29-01-2022,14922,1,0,No,14922,1,1185,0,3,High
+CUST0323,Aditya Verma_323,Lloyd Smart LED,65,Central,Distributor,UPI,3,07-01-2023,93280,2,0,No,186560,0,0,0,5,High
+CUST0324,Aarav Gupta_324,Lloyd UltraHD 4K,43,South,Distributor,Cash,3,07-04-2022,31741,1,0,Yes,31741,0,0,0,4,Low
+CUST0325,Rohan Sharma_325,Lloyd UltraHD 4K,55,East,Online,Debit Card,3,11-05-2025,62937,1,0,No,62937,0,0,0,4,Medium
+CUST0326,Mira Nair_326,Lloyd UltraHD 4K,43,South,Distributor,EMI,3,19-09-2024,34465,1,0,No,34465,0,0,0,3,Low
+CUST0327,Siddharth Nair_327,Lloyd Full HD,40,West,Online,Cash,3,21-01-2022,21431,1,0,No,21431,0,0,0,3,Low
+CUST0328,Neha Patel_328,Lloyd OLED,32,South,Retail Store,Credit Card,3,05-01-2024,24955,2,0,No,49910,0,0,0,4,Medium
+CUST0329,Kavya Chopra_329,Lloyd Smart LED,40,North,Online,UPI,3,30-01-2025,22697,1,0,No,22697,1,550,0,3,High
+CUST0330,Riya Jain_330,Lloyd Smart LED,40,East,Retail Store,Debit Card,1,05-12-2024,25218,1,0,No,25218,1,59,0,4,High
+CUST0331,Sana Reddy_331,Lloyd Full HD,55,South,Distributor,Credit Card,3,07-03-2022,44288,1,0,No,44288,0,0,1,4,Medium
+CUST0332,Mira Malhotra_332,Lloyd Smart LED,32,West,Retail Store,Debit Card,3,26-08-2023,16710,1,0,No,16710,0,0,0,4,Low
+CUST0333,Kabir Reddy_333,Lloyd UltraHD 4K,32,West,Distributor,EMI,3,02-04-2025,18429,1,0,No,18429,0,0,0,4,Low
+CUST0334,Arjun Patel_334,Lloyd OLED,32,South,Online,UPI,2,08-02-2025,23749,1,0,No,23749,0,0,0,4,Low
+CUST0335,Kavya Sharma_335,Lloyd HD Ready,32,West,Distributor,UPI,1,04-12-2022,10917,1,0,No,10917,1,656,0,4,High
+CUST0336,Arjun Khanna_336,Lloyd Smart LED,32,Central,Online,EMI,1,03-05-2022,17240,1,0,No,17240,0,0,0,4,Low
+CUST0337,Isha Iyer_337,Lloyd UltraHD 4K,55,Central,Online,UPI,1,23-03-2023,57035,1,0,No,57035,0,0,0,4,Medium
+CUST0338,Rohan Singh_338,Lloyd HD Ready,43,Central,Retail Store,Cash,3,03-09-2023,19545,1,0,No,19545,1,1354,1,4,High
+CUST0339,Kavya Gupta_339,Lloyd OLED,40,North,Retail Store,Debit Card,3,07-08-2025,35095,1,0,No,35095,1,33,0,5,High
+CUST0340,Kabir Mehta_340,Lloyd HD Ready,32,South,Retail Store,Credit Card,2,02-11-2023,11419,1,0,No,11419,1,1378,0,4,High
+CUST0341,Mira Patel_341,Lloyd UltraHD 4K,75,North,Retail Store,EMI,1,07-09-2023,150395,1,0,No,150395,1,538,0,1,High
+CUST0342,Kavya Verma_342,Lloyd HD Ready,43,West,Distributor,Cash,3,15-06-2024,20930,1,0,No,20930,0,0,0,4,Low
+CUST0343,Sana Rao_343,Lloyd Full HD,43,North,Distributor,Credit Card,1,08-10-2022,24032,1,0,No,24032,1,1290,0,4,High
+CUST0344,Priya Desai_344,Lloyd HD Ready,40,West,Distributor,Credit Card,2,02-12-2024,17940,1,0,No,17940,0,0,0,5,Low
+CUST0345,Aditya Roy_345,Lloyd Smart LED,55,West,Online,EMI,2,19-08-2023,56226,1,0,No,56226,1,45,0,5,High
+CUST0346,Ananya Sharma_346,Lloyd Smart LED,50,East,Distributor,Cash,2,04-12-2023,42240,1,0,No,42240,0,0,0,3,Medium
+CUST0347,Priya Naik_347,Lloyd Full HD,50,Central,Distributor,Credit Card,1,10-12-2024,40222,1,0,No,40222,0,0,0,3,Medium
+CUST0348,Kabir Bose_348,Lloyd UltraHD 4K,43,West,Distributor,Credit Card,3,29-07-2022,32915,1,0,No,32915,1,1026,0,4,High
+CUST0349,Sana Chatterjee_349,Lloyd Smart LED,65,East,Retail Store,Cash,3,06-05-2022,87432,1,0,No,87432,0,0,0,4,High
+CUST0350,Aryan Bose_350,Lloyd OLED,65,Central,Distributor,UPI,2,07-05-2023,121461,1,0,No,121461,1,1499,0,4,High
+CUST0351,Ishaan Roy_351,Lloyd Smart LED,40,West,Online,Credit Card,3,17-08-2024,25080,1,0,No,25080,0,0,0,4,Low
+CUST0352,Krishna Malhotra_352,Lloyd Smart LED,50,West,Retail Store,Debit Card,2,27-08-2024,47888,1,0,No,47888,1,985,0,4,High
+CUST0353,Anjali Naik_353,Lloyd UltraHD 4K,43,North,Online,Cash,1,04-08-2023,34192,1,0,No,34192,0,0,0,4,Low
+CUST0354,Riya Bose_354,Lloyd HD Ready,55,North,Distributor,Credit Card,2,16-02-2024,36702,1,0,No,36702,0,0,0,2,Medium
+CUST0355,Kavya Jain_355,Lloyd Smart LED,50,Central,Retail Store,EMI,1,15-09-2022,47970,1,0,No,47970,0,0,0,4,Medium
+CUST0356,Ananya Gupta_356,Lloyd Full HD,43,West,Online,Debit Card,2,26-04-2025,26565,1,0,No,26565,1,1283,0,4,High
+CUST0357,Aditya Jain_357,Lloyd HD Ready,43,South,Distributor,Credit Card,3,18-08-2022,22247,1,0,No,22247,0,0,0,5,Low
+CUST0358,Riya Gupta_358,Lloyd OLED,32,North,Online,Debit Card,3,08-07-2022,22333,1,0,No,22333,0,0,0,4,Low
+CUST0359,Riya Khanna_359,Lloyd UltraHD 4K,55,Central,Online,Debit Card,2,10-01-2022,65532,1,0,No,65532,1,1160,0,4,High
+CUST0360,Mira Iyer_360,Lloyd OLED,32,West,Online,UPI,3,11-02-2025,23964,1,0,No,23964,0,0,0,5,Low
+CUST0361,Ananya Sharma_361,Lloyd HD Ready,40,West,Distributor,Debit Card,3,04-01-2025,15551,1,0,No,15551,1,1442,0,5,High
+CUST0362,Neha Kumar_362,Lloyd HD Ready,32,South,Distributor,UPI,3,07-11-2023,11267,2,0,No,22534,0,0,0,4,Low
+CUST0363,Ishaan Naik_363,Lloyd HD Ready,75,Central,Online,Cash,1,17-05-2023,98754,1,0,No,98754,0,0,0,4,High
+CUST0364,Rohan Desai_364,Lloyd OLED,32,West,Retail Store,UPI,3,26-03-2022,20912,1,0,No,20912,0,0,1,4,Low
+CUST0365,Krishna Kumar_365,Lloyd HD Ready,75,North,Retail Store,EMI,1,18-02-2022,100105,1,0,No,100105,0,0,0,4,High
+CUST0366,Krishna Malhotra_366,Lloyd OLED,50,South,Distributor,Credit Card,2,17-04-2024,66517,1,0,No,66517,0,0,0,3,Medium
+CUST0367,Krishna Rao_367,Lloyd HD Ready,65,Central,Distributor,Cash,3,04-10-2024,62776,1,0,Yes,62776,1,292,0,5,High
+CUST0368,Aarav Roy_368,Lloyd Full HD,43,South,Distributor,Cash,3,20-11-2023,24547,1,0,No,24547,0,0,0,3,Low
+CUST0369,Rohan Singh_369,Lloyd HD Ready,75,North,Distributor,EMI,3,22-01-2023,87278,1,0,No,87278,1,1118,0,2,High
+CUST0370,Siddharth Bose_370,Lloyd OLED,55,Central,Distributor,UPI,2,27-08-2024,86456,3,0,No,259368,0,0,0,2,High
+CUST0371,Neha Rao_371,Lloyd Smart LED,32,South,Retail Store,Credit Card,1,02-10-2024,15429,1,0,No,15429,0,0,0,4,Low
+CUST0372,Siddharth Naik_372,Lloyd HD Ready,75,East,Distributor,UPI,1,06-08-2022,96759,1,0,No,96759,1,294,0,4,High
+CUST0373,Neha Chatterjee_373,Lloyd Smart LED,55,North,Online,Debit Card,3,01-10-2024,54524,1,0,No,54524,0,0,1,4,Medium
+CUST0374,Aarav Singh_374,Lloyd Full HD,65,North,Online,UPI,2,07-06-2025,68245,1,0,No,68245,0,0,0,4,Medium
+CUST0375,Arjun Gupta_375,Lloyd UltraHD 4K,65,North,Retail Store,Cash,2,12-09-2022,84837,1,0,Yes,84837,0,0,0,4,High
+CUST0376,Isha Gupta_376,Lloyd Full HD,32,East,Online,Credit Card,2,24-08-2022,13889,1,0,No,13889,0,0,0,4,Low
+CUST0377,Arjun Khanna_377,Lloyd HD Ready,40,East,Retail Store,UPI,2,15-11-2024,18400,1,0,No,18400,0,0,0,2,Low
+CUST0378,Sana Naik_378,Lloyd Smart LED,32,West,Retail Store,Credit Card,2,08-07-2025,15652,1,0,No,15652,0,0,0,5,Low
+CUST0379,Anjali Roy_379,Lloyd Smart LED,50,South,Online,Credit Card,1,28-09-2022,43722,1,0,No,43722,0,0,0,4,Medium
+CUST0380,Sana Bose_380,Lloyd OLED,75,West,Distributor,Debit Card,1,03-05-2022,177987,1,0,Yes,177987,1,1391,0,5,High
+CUST0381,Anjali Kumar_381,Lloyd Smart LED,43,South,Online,Debit Card,1,18-10-2023,30108,1,0,No,30108,0,0,0,3,Low
+CUST0382,Sana Chatterjee_382,Lloyd OLED,40,East,Online,Cash,3,04-07-2025,33268,1,0,No,33268,0,0,0,4,Low
+CUST0383,Krishna Mehta_383,Lloyd UltraHD 4K,32,East,Retail Store,EMI,2,16-09-2022,18905,1,0,No,18905,1,1354,0,4,High
+CUST0384,Krishna Gupta_384,Lloyd HD Ready,55,West,Online,Credit Card,3,05-08-2024,39823,2,0,No,79646,1,407,0,3,High
+CUST0385,Kabir Chopra_385,Lloyd OLED,40,Central,Retail Store,EMI,2,16-02-2022,33711,1,0,No,33711,0,0,0,5,Low
+CUST0386,Ananya Patel_386,Lloyd UltraHD 4K,75,West,Distributor,Cash,1,12-05-2024,130779,1,0,No,130779,0,0,0,5,High
+CUST0387,Anjali Reddy_387,Lloyd Smart LED,40,South,Distributor,Credit Card,3,09-06-2023,25792,2,0,Yes,51584,0,0,0,4,Medium
+CUST0388,Rohan Chopra_388,Lloyd Smart LED,75,West,Distributor,Credit Card,1,06-06-2024,122219,1,0,No,122219,1,1228,0,4,High
+CUST0389,Neha Jain_389,Lloyd UltraHD 4K,32,North,Online,EMI,2,27-07-2022,16123,1,0,No,16123,0,0,0,4,Low
+CUST0390,Kavya Roy_390,Lloyd Smart LED,75,South,Retail Store,UPI,2,27-08-2025,132631,1,0,No,132631,1,992,0,5,High
+CUST0391,Mira Mehta_391,Lloyd UltraHD 4K,40,South,Distributor,Debit Card,2,17-01-2024,26288,1,0,No,26288,0,0,0,4,Low
+CUST0392,Kabir Chopra_392,Lloyd OLED,55,Central,Retail Store,UPI,1,29-05-2022,78236,1,0,No,78236,0,0,0,4,High
+CUST0393,Arjun Gupta_393,Lloyd OLED,65,East,Retail Store,EMI,2,14-03-2023,120532,2,0,No,241064,0,0,0,4,High
+CUST0394,Sana Reddy_394,Lloyd UltraHD 4K,40,South,Distributor,Debit Card,1,04-06-2022,27248,1,0,No,27248,0,0,0,4,Low
+CUST0395,Arjun Sharma_395,Lloyd OLED,75,East,Distributor,UPI,3,18-01-2025,172645,1,0,No,172645,0,0,0,5,High
+CUST0396,Anjali Nair_396,Lloyd OLED,65,West,Retail Store,Debit Card,2,24-12-2022,130086,1,0,No,130086,0,0,0,3,High
+CUST0397,Krishna Verma_397,Lloyd OLED,75,North,Distributor,Credit Card,2,12-04-2025,188954,1,0,No,188954,0,0,0,3,High
+CUST0398,Vivaan Rao_398,Lloyd Full HD,55,Central,Retail Store,UPI,2,25-05-2025,46977,1,0,No,46977,0,0,0,4,Medium
+CUST0399,Arjun Nair_399,Lloyd HD Ready,75,East,Retail Store,Debit Card,3,01-04-2023,91044,1,0,No,91044,0,0,0,4,High
+CUST0400,Neha Patel_400,Lloyd Smart LED,32,South,Distributor,Debit Card,2,15-02-2024,15298,1,0,No,15298,1,1205,0,3,High
+CUST0401,Aarav Khanna_401,Lloyd Full HD,43,East,Online,Debit Card,1,21-09-2023,26974,1,0,Yes,26974,1,505,0,4,High
+CUST0402,Arjun Naik_402,Lloyd OLED,40,South,Distributor,UPI,1,07-05-2025,33744,1,0,No,33744,1,1319,0,5,High
+CUST0403,Neha Chatterjee_403,Lloyd UltraHD 4K,43,East,Online,Cash,2,11-04-2024,31690,1,0,No,31690,0,0,0,4,Low
+CUST0404,Ananya Reddy_404,Lloyd OLED,75,South,Retail Store,UPI,2,01-05-2023,187057,1,0,No,187057,0,0,0,4,High
+CUST0405,Vivaan Jain_405,Lloyd HD Ready,55,West,Retail Store,EMI,3,17-06-2023,43646,1,0,No,43646,0,0,0,4,Medium
+CUST0406,Neha Patel_406,Lloyd OLED,40,South,Online,UPI,3,19-07-2022,33232,1,0,No,33232,0,0,0,4,Low
+CUST0407,Aditya Iyer_407,Lloyd UltraHD 4K,75,South,Retail Store,Debit Card,3,06-01-2023,152371,1,0,No,152371,0,0,0,5,High
+CUST0408,Neha Singh_408,Lloyd HD Ready,65,North,Online,Credit Card,2,10-10-2024,59340,2,0,No,118680,0,0,0,4,High
+CUST0409,Kavya Verma_409,Lloyd OLED,50,South,Online,UPI,3,02-05-2024,58649,1,0,No,58649,0,0,0,4,Medium
+CUST0410,Aryan Nair_410,Lloyd HD Ready,75,North,Retail Store,UPI,3,05-09-2022,86476,1,0,No,86476,0,0,0,4,High
+CUST0411,Kavya Mehta_411,Lloyd Smart LED,43,Central,Online,Debit Card,1,27-02-2024,29509,1,0,No,29509,0,0,0,4,Low
+CUST0412,Aditya Gupta_412,Lloyd Smart LED,40,North,Distributor,Credit Card,3,21-09-2022,22266,1,0,No,22266,1,358,0,4,High
+CUST0413,Kabir Rao_413,Lloyd OLED,43,West,Distributor,Credit Card,1,17-12-2024,38641,1,0,No,38641,0,0,0,5,Medium
+CUST0414,Priya Malhotra_414,Lloyd HD Ready,40,North,Retail Store,EMI,1,18-08-2025,18199,1,0,No,18199,1,1216,0,4,High
+CUST0415,Mira Malhotra_415,Lloyd UltraHD 4K,75,Central,Retail Store,UPI,3,31-01-2022,150251,1,0,No,150251,1,467,0,4,High
+CUST0416,Siddharth Roy_416,Lloyd OLED,32,West,Online,Credit Card,1,26-06-2025,24040,1,0,No,24040,0,0,0,4,Low
+CUST0417,Isha Chatterjee_417,Lloyd Smart LED,65,East,Online,Credit Card,2,28-08-2023,80099,1,0,No,80099,0,0,0,2,High
+CUST0418,Riya Mehta_418,Lloyd Smart LED,75,East,Online,Cash,2,18-07-2025,118953,1,0,No,118953,0,0,0,2,High
+CUST0419,Kavya Bose_419,Lloyd OLED,43,North,Online,Cash,3,17-05-2023,39207,1,0,No,39207,0,0,1,5,Medium
+CUST0420,Arjun Khanna_420,Lloyd HD Ready,50,North,Distributor,Credit Card,2,12-01-2025,33541,1,0,No,33541,0,0,0,4,Low
+CUST0421,Mira Verma_421,Lloyd Smart LED,50,Central,Distributor,EMI,1,04-06-2024,48764,1,0,No,48764,0,0,0,4,Medium
+CUST0422,Mira Patel_422,Lloyd HD Ready,55,Central,Retail Store,Credit Card,2,03-07-2023,39238,1,0,No,39238,0,0,0,4,Medium
+CUST0423,Rohan Chopra_423,Lloyd Smart LED,40,South,Online,Debit Card,3,18-04-2024,21802,1,0,No,21802,0,0,0,5,Low
+CUST0424,Krishna Singh_424,Lloyd Smart LED,43,Central,Online,UPI,3,21-01-2025,30060,2,0,No,60120,0,0,0,4,Medium
+CUST0425,Ishaan Gupta_425,Lloyd Full HD,55,South,Retail Store,EMI,1,27-04-2024,46321,1,0,No,46321,0,0,0,5,Medium
+CUST0426,Ishaan Rao_426,Lloyd Smart LED,43,West,Online,Debit Card,3,06-09-2023,29251,2,0,No,58502,0,0,0,4,Medium
+CUST0427,Aditya Reddy_427,Lloyd UltraHD 4K,40,North,Online,EMI,2,16-02-2023,26419,1,0,No,26419,1,1396,0,5,High
+CUST0428,Aarav Bose_428,Lloyd OLED,75,West,Online,Debit Card,3,08-03-2023,191473,1,0,No,191473,0,0,0,4,High
+CUST0429,Riya Malhotra_429,Lloyd OLED,75,Central,Online,UPI,1,09-11-2023,169581,1,0,No,169581,0,0,0,4,High
+CUST0430,Neha Mehta_430,Lloyd HD Ready,50,West,Online,UPI,3,08-06-2022,29204,1,0,No,29204,0,0,0,4,Low
+CUST0431,Vivaan Gupta_431,Lloyd Smart LED,75,West,Retail Store,Cash,2,14-01-2022,140977,1,0,No,140977,1,1420,0,4,High
+CUST0432,Arjun Mehta_432,Lloyd UltraHD 4K,75,West,Online,Debit Card,1,08-01-2023,133383,1,0,No,133383,0,0,0,3,High
+CUST0433,Riya Singh_433,Lloyd HD Ready,32,Central,Retail Store,Cash,2,13-08-2022,10471,1,0,No,10471,0,0,0,4,Low
+CUST0434,Siddharth Jain_434,Lloyd Full HD,50,West,Online,Debit Card,1,01-01-2025,36211,2,0,No,72422,1,1252,0,4,High
+CUST0435,Kavya Chopra_435,Lloyd HD Ready,55,South,Distributor,Cash,3,26-06-2025,36183,1,0,No,36183,0,0,0,2,Medium
+CUST0436,Priya Patel_436,Lloyd HD Ready,65,Central,Distributor,UPI,1,26-05-2023,59901,1,0,No,59901,1,45,0,5,High
+CUST0437,Anjali Gupta_437,Lloyd Smart LED,32,West,Distributor,EMI,1,26-08-2023,17017,1,0,No,17017,0,0,1,4,Low
+CUST0438,Aryan Jain_438,Lloyd Full HD,55,Central,Distributor,Cash,3,04-08-2022,46250,1,0,No,46250,0,0,0,5,Medium
+CUST0439,Aryan Singh_439,Lloyd HD Ready,40,East,Retail Store,Debit Card,2,14-09-2024,16645,1,0,No,16645,0,0,0,4,Low
+CUST0440,Vivaan Reddy_440,Lloyd UltraHD 4K,32,South,Retail Store,Debit Card,3,28-05-2025,18200,1,0,No,18200,0,0,0,4,Low
+CUST0441,Arjun Malhotra_441,Lloyd UltraHD 4K,55,West,Online,UPI,1,19-04-2024,61102,1,0,Yes,61102,1,1349,0,4,High
+CUST0442,Kavya Mehta_442,Lloyd OLED,40,East,Distributor,Debit Card,3,28-12-2023,36045,1,0,No,36045,0,0,0,4,Medium
+CUST0443,Riya Patel_443,Lloyd Full HD,50,East,Retail Store,Credit Card,1,29-05-2025,41323,1,0,No,41323,0,0,0,5,Medium
+CUST0444,Riya Mehta_444,Lloyd Full HD,65,Central,Online,EMI,3,08-07-2023,66382,1,0,No,66382,1,897,0,4,High
+CUST0445,Isha Jain_445,Lloyd OLED,40,East,Online,Cash,3,01-12-2024,35495,1,0,No,35495,0,0,0,5,Medium
+CUST0446,Pooja Rao_446,Lloyd HD Ready,75,South,Retail Store,EMI,2,07-11-2023,91093,1,0,No,91093,0,0,1,5,High
+CUST0447,Neha Chatterjee_447,Lloyd Full HD,43,South,Distributor,UPI,1,22-05-2024,28167,2,0,No,56334,1,540,1,4,High
+CUST0448,Aditya Malhotra_448,Lloyd UltraHD 4K,40,North,Online,Cash,2,10-10-2022,25721,1,0,No,25721,1,1013,0,5,High
+CUST0449,Vivaan Bose_449,Lloyd UltraHD 4K,40,South,Distributor,Cash,1,17-12-2024,28269,2,0,No,56538,1,1292,0,4,High
+CUST0450,Ananya Malhotra_450,Lloyd Smart LED,65,East,Distributor,Credit Card,3,13-04-2024,89956,1,0,No,89956,0,0,0,5,High
+CUST0451,Krishna Sharma_451,Lloyd Full HD,43,South,Distributor,UPI,1,21-06-2023,24436,1,0,No,24436,0,0,0,4,Low
+CUST0452,Aditya Gupta_452,Lloyd HD Ready,75,Central,Online,Debit Card,2,01-01-2025,92491,1,0,No,92491,0,0,1,2,High
+CUST0453,Kavya Khanna_453,Lloyd OLED,55,North,Distributor,Credit Card,2,11-07-2024,87237,1,0,No,87237,0,0,0,5,High
+CUST0454,Aarav Jain_454,Lloyd OLED,55,East,Online,Credit Card,2,26-02-2025,85137,1,0,Yes,85137,0,0,1,4,High
+CUST0455,Kavya Verma_455,Lloyd HD Ready,40,North,Distributor,EMI,1,21-04-2024,15501,1,0,No,15501,0,0,0,4,Low
+CUST0456,Ishaan Naik_456,Lloyd Smart LED,43,East,Online,EMI,2,05-08-2024,31201,1,0,No,31201,1,610,0,4,High
+CUST0457,Pooja Chatterjee_457,Lloyd OLED,43,Central,Distributor,EMI,2,27-10-2023,41542,1,0,No,41542,0,0,0,3,Medium
+CUST0458,Krishna Reddy_458,Lloyd Full HD,75,North,Retail Store,Credit Card,2,22-02-2025,99510,1,0,No,99510,0,0,0,4,High
+CUST0459,Kavya Bose_459,Lloyd Smart LED,65,West,Distributor,Debit Card,3,08-03-2022,84058,2,0,No,168116,0,0,0,5,High
+CUST0460,Neha Singh_460,Lloyd Full HD,50,East,Distributor,Cash,3,06-01-2022,36550,1,0,No,36550,0,0,0,1,Medium
+CUST0461,Neha Desai_461,Lloyd UltraHD 4K,55,West,Online,EMI,1,29-09-2023,64809,1,0,Yes,64809,0,0,1,4,Medium
+CUST0462,Priya Kumar_462,Lloyd Smart LED,65,North,Online,Debit Card,1,10-11-2022,82947,1,0,No,82947,0,0,0,1,High
+CUST0463,Ananya Patel_463,Lloyd OLED,32,West,Distributor,UPI,2,19-07-2023,24423,1,0,No,24423,1,1354,0,4,High
+CUST0464,Ishaan Kumar_464,Lloyd Smart LED,55,West,Retail Store,EMI,3,05-04-2024,50238,1,0,No,50238,0,0,0,4,Medium
+CUST0465,Priya Naik_465,Lloyd Smart LED,65,North,Retail Store,Cash,2,21-05-2023,82451,2,0,No,164902,1,35,0,4,High
+CUST0466,Arjun Iyer_466,Lloyd Smart LED,55,Central,Online,UPI,2,10-01-2025,52865,1,0,No,52865,0,0,0,5,Medium
+CUST0467,Anjali Verma_467,Lloyd Smart LED,50,West,Retail Store,UPI,3,22-10-2024,42632,1,0,No,42632,1,1273,0,4,High
+CUST0468,Riya Singh_468,Lloyd Full HD,32,West,Distributor,Cash,3,23-07-2022,12604,1,0,No,12604,1,1048,0,4,High
+CUST0469,Ananya Jain_469,Lloyd UltraHD 4K,50,Central,Online,EMI,3,24-10-2023,46243,2,0,No,92486,0,0,0,5,High
+CUST0470,Ananya Patel_470,Lloyd HD Ready,75,West,Distributor,Credit Card,1,15-03-2024,92799,1,0,No,92799,0,0,0,4,High
+CUST0471,Isha Roy_471,Lloyd Smart LED,32,West,Online,Cash,1,08-02-2023,15407,1,0,No,15407,1,1486,0,4,High
+CUST0472,Aarav Rao_472,Lloyd OLED,40,West,Online,Cash,2,31-01-2025,33114,1,0,No,33114,0,0,0,4,Low
+CUST0473,Riya Bose_473,Lloyd Smart LED,65,South,Online,Cash,1,20-06-2023,83611,1,0,No,83611,0,0,0,5,High
+CUST0474,Vivaan Chopra_474,Lloyd OLED,32,Central,Online,UPI,3,20-05-2025,24641,1,0,No,24641,1,836,0,4,High
+CUST0475,Pooja Desai_475,Lloyd Full HD,75,West,Retail Store,Debit Card,3,31-07-2023,118914,1,0,No,118914,0,0,0,4,High
+CUST0476,Mira Naik_476,Lloyd OLED,75,Central,Distributor,Credit Card,1,17-05-2025,183346,1,0,No,183346,0,0,0,4,High
+CUST0477,Riya Verma_477,Lloyd HD Ready,50,East,Distributor,EMI,2,02-02-2024,31059,1,0,No,31059,0,0,0,2,Low
+CUST0478,Rohan Jain_478,Lloyd UltraHD 4K,55,East,Distributor,EMI,2,27-04-2022,56293,1,0,No,56293,0,0,1,4,Medium
+CUST0479,Anjali Nair_479,Lloyd OLED,32,West,Online,Debit Card,1,20-09-2023,24990,1,0,No,24990,0,0,0,4,Low
+CUST0480,Arjun Chatterjee_480,Lloyd OLED,65,Central,Retail Store,Cash,2,19-01-2024,111845,1,0,No,111845,0,0,0,3,High
+CUST0481,Neha Patel_481,Lloyd UltraHD 4K,32,Central,Distributor,Credit Card,2,15-04-2022,16896,1,0,No,16896,1,1439,0,2,High
+CUST0482,Aarav Malhotra_482,Lloyd HD Ready,43,Central,Retail Store,EMI,2,10-05-2023,20571,1,0,No,20571,0,0,0,3,Low
+CUST0483,Siddharth Reddy_483,Lloyd Smart LED,55,South,Online,EMI,3,15-02-2022,53730,1,0,No,53730,0,0,0,4,Medium
+CUST0484,Arjun Rao_484,Lloyd OLED,65,East,Distributor,Cash,3,02-04-2024,114342,1,0,No,114342,0,0,0,5,High
+CUST0485,Aarav Rao_485,Lloyd UltraHD 4K,65,Central,Retail Store,Debit Card,1,24-05-2025,99050,1,0,No,99050,0,0,0,5,High
+CUST0486,Priya Singh_486,Lloyd Full HD,40,Central,Online,Credit Card,3,08-09-2024,18701,1,0,No,18701,1,648,0,4,High
+CUST0487,Siddharth Patel_487,Lloyd UltraHD 4K,50,South,Retail Store,Debit Card,2,17-08-2024,50569,1,0,No,50569,1,1348,0,4,High
+CUST0488,Riya Patel_488,Lloyd Full HD,40,South,Distributor,Debit Card,3,24-04-2024,18706,1,0,No,18706,0,0,0,5,Low
+CUST0489,Aryan Naik_489,Lloyd HD Ready,65,Central,Distributor,Credit Card,1,25-03-2023,56046,1,0,No,56046,0,0,0,3,Medium
+CUST0490,Arjun Roy_490,Lloyd Smart LED,55,North,Online,Credit Card,3,20-06-2023,60162,1,0,No,60162,1,1171,0,4,High
+CUST0491,Krishna Bose_491,Lloyd UltraHD 4K,32,Central,Online,EMI,2,26-05-2023,16525,1,0,No,16525,0,0,0,4,Low
+CUST0492,Neha Naik_492,Lloyd OLED,32,Central,Online,EMI,2,24-06-2023,24395,1,0,No,24395,0,0,1,3,Low
+CUST0493,Siddharth Chatterjee_493,Lloyd HD Ready,55,South,Retail Store,Credit Card,1,16-01-2022,40128,1,0,No,40128,0,0,0,5,Medium
+CUST0494,Anjali Nair_494,Lloyd UltraHD 4K,65,South,Retail Store,UPI,3,31-08-2022,86072,1,0,No,86072,0,0,0,5,High
+CUST0495,Isha Chopra_495,Lloyd OLED,75,Central,Retail Store,EMI,3,15-05-2025,199996,1,0,No,199996,0,0,0,2,High
+CUST0496,Mira Roy_496,Lloyd UltraHD 4K,32,Central,Online,UPI,3,30-06-2024,16722,1,0,No,16722,0,0,0,3,Low
+CUST0497,Aryan Singh_497,Lloyd Full HD,75,Central,Distributor,Credit Card,2,18-07-2025,117928,1,0,No,117928,0,0,0,2,High
+CUST0498,Krishna Bose_498,Lloyd UltraHD 4K,32,South,Distributor,EMI,1,31-01-2024,16452,1,0,No,16452,0,0,0,4,Low
+CUST0499,Ananya Roy_499,Lloyd UltraHD 4K,32,Central,Retail Store,Debit Card,3,06-12-2023,18816,2,0,No,37632,0,0,0,4,Medium
+CUST0500,Krishna Sharma_500,Lloyd UltraHD 4K,50,Central,Retail Store,Credit Card,2,25-04-2022,44563,1,0,No,44563,0,0,0,4,Medium
+CUST0501,Arjun Mehta_501,Lloyd HD Ready,50,West,Distributor,Cash,2,15-08-2025,32204,1,0,No,32204,0,0,0,4,Low
+CUST0502,Kavya Khanna_502,Lloyd UltraHD 4K,43,North,Distributor,UPI,2,01-02-2023,34579,1,0,No,34579,0,0,0,5,Low
+CUST0503,Neha Nair_503,Lloyd OLED,40,East,Retail Store,Credit Card,3,29-01-2023,36529,2,0,No,73058,0,0,0,4,High
+CUST0504,Riya Rao_504,Lloyd Full HD,55,North,Retail Store,Credit Card,3,03-01-2025,51566,1,0,No,51566,0,0,0,2,Medium
+CUST0505,Neha Desai_505,Lloyd Full HD,55,West,Distributor,EMI,3,04-09-2024,50727,1,0,No,50727,1,434,0,4,High
+CUST0506,Ananya Rao_506,Lloyd UltraHD 4K,55,East,Online,EMI,3,31-01-2025,65638,2,0,Yes,131276,1,1026,0,4,High
+CUST0507,Anjali Iyer_507,Lloyd HD Ready,43,Central,Retail Store,EMI,3,24-10-2022,20156,1,0,No,20156,0,0,0,4,Low
+CUST0508,Riya Kumar_508,Lloyd HD Ready,50,West,Distributor,Cash,3,28-09-2024,30770,1,0,No,30770,0,0,0,4,Low
+CUST0509,Rohan Gupta_509,Lloyd OLED,65,Central,Distributor,EMI,3,27-06-2022,117335,1,0,No,117335,0,0,0,3,High
+CUST0510,Kavya Iyer_510,Lloyd UltraHD 4K,75,South,Distributor,Credit Card,3,23-05-2025,137366,1,0,No,137366,0,0,0,5,High
+CUST0511,Siddharth Bose_511,Lloyd Full HD,75,West,Distributor,EMI,3,24-08-2024,107855,1,0,No,107855,0,0,0,5,High
+CUST0512,Vivaan Kumar_512,Lloyd HD Ready,65,South,Online,Debit Card,2,11-11-2022,61734,1,0,No,61734,0,0,0,4,Medium
+CUST0513,Neha Iyer_513,Lloyd UltraHD 4K,43,West,Distributor,EMI,3,28-11-2024,30653,1,0,No,30653,1,623,0,4,High
+CUST0514,Isha Nair_514,Lloyd HD Ready,65,West,Retail Store,Cash,1,16-09-2022,63494,1,0,No,63494,0,0,0,4,Medium
+CUST0515,Neha Verma_515,Lloyd HD Ready,55,South,Online,Debit Card,2,07-01-2022,37187,1,0,No,37187,0,0,1,4,Medium
+CUST0516,Aryan Roy_516,Lloyd Full HD,40,East,Distributor,Credit Card,3,18-02-2022,19444,1,0,No,19444,1,595,0,4,High
+CUST0517,Kavya Kumar_517,Lloyd Smart LED,32,North,Online,Credit Card,1,10-06-2022,16075,1,0,No,16075,0,0,0,5,Low
+CUST0518,Kabir Chatterjee_518,Lloyd OLED,75,Central,Retail Store,UPI,3,25-06-2022,194271,1,0,No,194271,0,0,0,4,High
+CUST0519,Kabir Roy_519,Lloyd OLED,50,West,Distributor,Debit Card,1,22-10-2024,67277,1,0,No,67277,1,781,0,4,High
+CUST0520,Riya Sharma_520,Lloyd Full HD,50,Central,Retail Store,UPI,1,27-09-2024,39656,2,0,No,79312,1,41,0,4,High
+CUST0521,Aryan Bose_521,Lloyd HD Ready,43,South,Distributor,Debit Card,1,31-03-2023,19974,1,0,No,19974,0,0,0,5,Low
+CUST0522,Aryan Singh_522,Lloyd UltraHD 4K,50,Central,Distributor,Debit Card,1,03-10-2022,49720,1,0,No,49720,0,0,0,4,Medium
+CUST0523,Neha Jain_523,Lloyd HD Ready,55,South,Distributor,Cash,2,13-05-2023,36562,2,0,No,73124,1,1262,0,2,High
+CUST0524,Ananya Malhotra_524,Lloyd Full HD,75,Central,Distributor,UPI,2,07-11-2023,107511,1,0,No,107511,1,194,0,4,High
+CUST0525,Isha Singh_525,Lloyd OLED,65,North,Distributor,Cash,1,17-11-2024,120324,1,0,No,120324,0,0,0,4,High
+CUST0526,Ananya Rao_526,Lloyd HD Ready,55,North,Online,Debit Card,3,21-10-2024,36190,2,0,No,72380,0,0,0,4,High
+CUST0527,Isha Kumar_527,Lloyd OLED,43,North,Distributor,Credit Card,1,26-04-2025,40941,1,0,No,40941,0,0,0,4,Medium
+CUST0528,Neha Rao_528,Lloyd UltraHD 4K,55,North,Distributor,Debit Card,2,25-02-2022,66445,1,0,No,66445,1,907,0,5,High
+CUST0529,Vivaan Malhotra_529,Lloyd OLED,65,North,Online,Cash,3,01-07-2023,133287,1,0,No,133287,0,0,0,4,High
+CUST0530,Aditya Gupta_530,Lloyd OLED,40,North,Online,UPI,2,09-02-2025,32685,1,0,No,32685,0,0,0,5,Low
+CUST0531,Arjun Gupta_531,Lloyd Smart LED,43,South,Online,UPI,2,26-08-2025,27301,1,0,No,27301,0,0,0,4,Low
+CUST0532,Aditya Bose_532,Lloyd Smart LED,40,West,Online,Cash,3,05-02-2022,22079,1,0,No,22079,0,0,0,5,Low
+CUST0533,Kabir Patel_533,Lloyd Smart LED,32,Central,Online,UPI,1,15-03-2023,15725,1,0,No,15725,0,0,0,4,Low
+CUST0534,Riya Reddy_534,Lloyd OLED,40,North,Online,EMI,1,18-08-2023,36615,1,0,No,36615,0,0,0,4,Medium
+CUST0535,Arjun Sharma_535,Lloyd Full HD,32,South,Distributor,Credit Card,1,03-11-2022,12801,1,0,No,12801,0,0,0,4,Low
+CUST0536,Vivaan Kumar_536,Lloyd OLED,32,South,Distributor,Credit Card,1,11-09-2023,24135,1,0,No,24135,0,0,0,3,Low
+CUST0537,Vivaan Mehta_537,Lloyd Full HD,40,South,Retail Store,Credit Card,3,06-02-2025,18646,1,0,No,18646,0,0,0,4,Low
+CUST0538,Sana Desai_538,Lloyd Full HD,43,West,Distributor,UPI,3,23-12-2022,28129,1,0,No,28129,0,0,0,4,Low
+CUST0539,Priya Nair_539,Lloyd Smart LED,65,Central,Distributor,UPI,3,30-06-2022,83691,1,0,No,83691,0,0,0,4,High
+CUST0540,Siddharth Roy_540,Lloyd HD Ready,55,West,Online,Debit Card,2,09-03-2022,41926,1,0,No,41926,1,1347,0,4,High
+CUST0541,Priya Khanna_541,Lloyd UltraHD 4K,55,East,Online,Debit Card,3,19-10-2022,59113,1,0,No,59113,0,0,0,4,Medium
+CUST0542,Ishaan Reddy_542,Lloyd Smart LED,65,South,Distributor,Credit Card,1,23-11-2023,87824,1,0,No,87824,0,0,1,4,High
+CUST0543,Ishaan Singh_543,Lloyd Smart LED,75,East,Retail Store,EMI,2,30-06-2022,120758,1,0,No,120758,0,0,0,2,High
+CUST0544,Mira Iyer_544,Lloyd HD Ready,75,North,Online,Debit Card,1,10-03-2023,85428,1,0,No,85428,1,107,0,4,High
+CUST0545,Mira Gupta_545,Lloyd UltraHD 4K,32,North,Distributor,Debit Card,1,02-07-2024,19106,1,0,No,19106,0,0,0,4,Low
+CUST0546,Neha Khanna_546,Lloyd OLED,32,West,Distributor,UPI,3,07-03-2022,24829,1,0,No,24829,0,0,0,5,Low
+CUST0547,Aryan Gupta_547,Lloyd OLED,43,Central,Retail Store,EMI,3,10-11-2024,46094,1,0,No,46094,0,0,0,5,Medium
+CUST0548,Riya Jain_548,Lloyd Smart LED,50,East,Retail Store,Credit Card,1,19-01-2023,46088,1,0,No,46088,0,0,0,4,Medium
+CUST0549,Riya Jain_549,Lloyd UltraHD 4K,40,Central,Online,Debit Card,1,08-02-2022,27365,2,0,No,54730,0,0,0,4,Medium
+CUST0550,Aarav Chatterjee_550,Lloyd Smart LED,32,West,Retail Store,EMI,2,01-08-2025,14707,1,0,No,14707,0,0,0,4,Low
+CUST0551,Arjun Rao_551,Lloyd Full HD,55,North,Distributor,EMI,3,01-04-2024,46189,1,0,No,46189,0,0,1,4,Medium
+CUST0552,Ishaan Singh_552,Lloyd Smart LED,43,Central,Distributor,Credit Card,2,25-08-2023,28892,1,0,No,28892,0,0,0,4,Low
+CUST0553,Riya Desai_553,Lloyd Smart LED,40,Central,Retail Store,EMI,2,24-02-2024,24188,1,0,No,24188,0,0,0,4,Low
+CUST0554,Kavya Mehta_554,Lloyd OLED,43,North,Retail Store,EMI,2,26-04-2025,41630,1,0,No,41630,0,0,0,4,Medium
+CUST0555,Priya Jain_555,Lloyd OLED,40,East,Retail Store,EMI,1,02-11-2023,31340,1,0,No,31340,1,1487,0,1,High
+CUST0556,Riya Mehta_556,Lloyd OLED,40,North,Retail Store,Debit Card,2,20-06-2025,34296,1,0,No,34296,0,0,0,4,Low
+CUST0557,Rohan Iyer_557,Lloyd Full HD,65,Central,Online,Credit Card,2,01-01-2025,77967,2,0,No,155934,0,0,0,5,High
+CUST0558,Neha Patel_558,Lloyd OLED,32,East,Retail Store,EMI,1,24-04-2023,22419,2,0,No,44838,0,0,0,4,Medium
+CUST0559,Siddharth Iyer_559,Lloyd UltraHD 4K,43,East,Online,EMI,3,15-07-2023,30475,1,0,No,30475,0,0,0,4,Low
+CUST0560,Kavya Desai_560,Lloyd HD Ready,43,North,Distributor,Debit Card,3,11-04-2022,20146,1,0,No,20146,0,0,0,5,Low
+CUST0561,Kavya Mehta_561,Lloyd UltraHD 4K,65,Central,Retail Store,Credit Card,2,29-05-2023,89009,1,0,No,89009,1,643,0,4,High
+CUST0562,Arjun Sharma_562,Lloyd UltraHD 4K,55,West,Online,UPI,1,25-06-2022,58602,1,0,No,58602,1,898,0,4,High
+CUST0563,Isha Jain_563,Lloyd OLED,55,Central,Retail Store,Debit Card,3,26-08-2022,81787,1,0,No,81787,0,0,0,4,High
+CUST0564,Aarav Khanna_564,Lloyd HD Ready,75,South,Distributor,Credit Card,2,28-06-2024,93617,1,0,No,93617,0,0,0,4,High
+CUST0565,Vivaan Malhotra_565,Lloyd HD Ready,32,West,Distributor,EMI,2,18-12-2024,11916,1,0,No,11916,1,841,1,4,High
+CUST0566,Neha Mehta_566,Lloyd HD Ready,32,East,Distributor,Credit Card,1,27-01-2025,11165,1,0,No,11165,0,0,1,3,Low
+CUST0567,Siddharth Malhotra_567,Lloyd Full HD,50,West,Retail Store,Credit Card,2,20-05-2024,41005,1,0,No,41005,0,0,0,4,Medium
+CUST0568,Sana Gupta_568,Lloyd OLED,65,East,Retail Store,Credit Card,3,10-05-2023,115298,1,0,No,115298,0,0,0,5,High
+CUST0569,Rohan Malhotra_569,Lloyd HD Ready,55,East,Online,UPI,1,04-08-2024,39538,1,0,No,39538,0,0,0,4,Medium
+CUST0570,Krishna Nair_570,Lloyd Full HD,40,West,Distributor,Credit Card,3,25-01-2024,21387,1,0,No,21387,0,0,0,5,Low
+CUST0571,Kabir Verma_571,Lloyd Smart LED,43,East,Retail Store,UPI,3,13-08-2025,28107,1,0,No,28107,0,0,0,4,Low
+CUST0572,Arjun Chatterjee_572,Lloyd Smart LED,32,East,Distributor,EMI,3,30-07-2022,14836,1,0,No,14836,0,0,0,5,Low
+CUST0573,Vivaan Khanna_573,Lloyd Full HD,43,South,Distributor,UPI,2,20-02-2025,27637,1,0,No,27637,0,0,0,4,Low
+CUST0574,Sana Nair_574,Lloyd Full HD,43,Central,Online,EMI,2,06-06-2025,24912,1,0,No,24912,0,0,0,4,Low
+CUST0575,Aditya Mehta_575,Lloyd OLED,50,Central,Online,EMI,3,20-05-2022,66576,1,0,No,66576,0,0,0,2,Medium
+CUST0576,Ananya Bose_576,Lloyd OLED,55,South,Online,UPI,3,25-06-2023,72155,1,0,No,72155,1,1130,0,4,High
+CUST0577,Ishaan Chopra_577,Lloyd Smart LED,32,West,Online,Debit Card,1,27-09-2022,16663,1,0,No,16663,0,0,0,4,Low
+CUST0578,Aryan Rao_578,Lloyd HD Ready,43,North,Distributor,Cash,1,01-11-2024,20647,1,0,No,20647,0,0,0,4,Low
+CUST0579,Sana Roy_579,Lloyd Smart LED,32,North,Online,Credit Card,2,21-05-2023,14665,1,0,No,14665,0,0,0,5,Low
+CUST0580,Pooja Jain_580,Lloyd HD Ready,40,North,Online,Cash,2,03-02-2025,17192,1,0,No,17192,0,0,0,5,Low
+CUST0581,Ishaan Jain_581,Lloyd HD Ready,50,South,Online,Credit Card,1,01-02-2022,30497,1,0,No,30497,0,0,0,2,Low
+CUST0582,Neha Mehta_582,Lloyd OLED,40,South,Online,Credit Card,3,02-01-2025,32912,1,0,No,32912,0,0,0,4,Low
+CUST0583,Ananya Patel_583,Lloyd UltraHD 4K,32,East,Distributor,EMI,2,09-04-2025,16148,1,0,No,16148,1,1101,0,4,High
+CUST0584,Riya Singh_584,Lloyd UltraHD 4K,75,North,Online,Credit Card,3,28-12-2024,131021,1,0,No,131021,0,0,0,4,High
+CUST0585,Aryan Gupta_585,Lloyd Full HD,32,West,Distributor,Credit Card,1,23-03-2024,13224,1,0,No,13224,0,0,0,5,Low
+CUST0586,Isha Rao_586,Lloyd OLED,55,West,Retail Store,UPI,2,28-12-2022,73160,1,0,No,73160,0,0,0,4,High
+CUST0587,Sana Singh_587,Lloyd HD Ready,43,North,Distributor,Cash,2,17-07-2024,23145,1,0,No,23145,0,0,0,5,Low
+CUST0588,Isha Sharma_588,Lloyd UltraHD 4K,43,North,Distributor,UPI,1,10-04-2022,29662,1,0,No,29662,1,796,0,3,High
+CUST0589,Krishna Rao_589,Lloyd HD Ready,40,North,Online,Credit Card,2,09-01-2022,16776,1,0,No,16776,0,0,0,4,Low
+CUST0590,Kabir Chatterjee_590,Lloyd UltraHD 4K,50,South,Retail Store,EMI,1,28-11-2023,45626,1,0,No,45626,1,111,0,4,High
+CUST0591,Sana Jain_591,Lloyd UltraHD 4K,75,South,Retail Store,UPI,2,18-11-2024,135451,2,0,No,270902,0,0,0,4,High
+CUST0592,Kavya Iyer_592,Lloyd UltraHD 4K,65,South,Retail Store,UPI,1,11-02-2025,101679,1,0,No,101679,0,0,0,4,High
+CUST0593,Sana Patel_593,Lloyd OLED,43,Central,Retail Store,Debit Card,2,07-04-2023,39998,1,0,No,39998,0,0,0,5,Medium
+CUST0594,Siddharth Naik_594,Lloyd Smart LED,55,West,Distributor,Credit Card,3,09-07-2024,60778,1,0,No,60778,0,0,0,4,Medium
+CUST0595,Aarav Malhotra_595,Lloyd HD Ready,40,West,Retail Store,EMI,3,12-03-2025,15859,1,0,No,15859,0,0,0,4,Low
+CUST0596,Anjali Kumar_596,Lloyd OLED,40,East,Distributor,UPI,3,25-01-2023,35254,1,0,No,35254,0,0,0,4,Medium
+CUST0597,Mira Gupta_597,Lloyd OLED,65,South,Distributor,UPI,2,24-09-2023,123520,1,0,No,123520,0,0,0,3,High
+CUST0598,Aditya Chatterjee_598,Lloyd OLED,55,Central,Distributor,EMI,2,13-11-2023,85557,1,0,No,85557,0,0,0,4,High
+CUST0599,Arjun Bose_599,Lloyd OLED,50,Central,Retail Store,Credit Card,3,06-06-2022,64940,1,0,No,64940,0,0,0,4,Medium
+CUST0600,Kabir Nair_600,Lloyd OLED,55,West,Online,Debit Card,3,01-12-2022,80099,1,0,No,80099,0,0,0,3,High
+CUST0601,Vivaan Verma_601,Lloyd Full HD,50,South,Online,UPI,1,17-09-2022,36253,1,0,No,36253,0,0,0,5,Medium
+CUST0602,Arjun Naik_602,Lloyd HD Ready,55,East,Retail Store,Debit Card,1,23-03-2022,37176,1,0,No,37176,0,0,0,4,Medium
+CUST0603,Kabir Patel_603,Lloyd OLED,55,South,Online,Cash,1,24-01-2024,86057,1,0,No,86057,0,0,0,5,High
+CUST0604,Siddharth Rao_604,Lloyd HD Ready,32,North,Online,Credit Card,3,10-04-2025,11087,1,0,No,11087,1,238,0,4,High
+CUST0605,Aryan Iyer_605,Lloyd Full HD,40,South,Distributor,Cash,3,08-06-2025,19689,1,0,No,19689,1,1498,0,5,High
+CUST0606,Riya Desai_606,Lloyd Full HD,55,North,Distributor,Cash,3,21-12-2023,50167,1,0,No,50167,0,0,0,4,Medium
+CUST0607,Anjali Bose_607,Lloyd HD Ready,65,North,Retail Store,Cash,1,16-03-2022,59265,1,0,No,59265,1,551,0,4,High
+CUST0608,Kavya Nair_608,Lloyd UltraHD 4K,55,East,Retail Store,Credit Card,2,17-07-2025,66402,1,0,No,66402,1,1082,0,5,High
+CUST0609,Priya Patel_609,Lloyd Smart LED,43,West,Online,Credit Card,3,18-09-2023,31387,1,0,No,31387,0,0,0,4,Low
+CUST0610,Neha Malhotra_610,Lloyd UltraHD 4K,40,South,Distributor,EMI,2,03-03-2022,26298,1,0,No,26298,1,1357,0,2,High
+CUST0611,Priya Jain_611,Lloyd UltraHD 4K,43,North,Retail Store,Debit Card,2,23-05-2024,35296,1,0,No,35296,0,0,0,4,Medium
+CUST0612,Vivaan Desai_612,Lloyd UltraHD 4K,40,South,Retail Store,Debit Card,2,16-11-2022,23527,1,0,No,23527,0,0,0,5,Low
+CUST0613,Rohan Chatterjee_613,Lloyd OLED,43,West,Retail Store,EMI,1,12-04-2022,40799,1,0,No,40799,0,0,0,4,Medium
+CUST0614,Riya Gupta_614,Lloyd Full HD,55,West,Retail Store,EMI,2,23-05-2024,47408,1,0,No,47408,0,0,0,4,Medium
+CUST0615,Sana Patel_615,Lloyd UltraHD 4K,55,Central,Retail Store,Cash,3,11-08-2024,57730,1,0,No,57730,0,0,0,4,Medium
+CUST0616,Sana Rao_616,Lloyd Full HD,32,West,Retail Store,EMI,1,12-09-2022,14428,1,0,No,14428,0,0,0,5,Low
+CUST0617,Sana Verma_617,Lloyd HD Ready,65,East,Online,UPI,3,24-07-2023,66230,1,0,No,66230,0,0,0,3,Medium
+CUST0618,Isha Jain_618,Lloyd Smart LED,43,North,Distributor,Debit Card,3,22-04-2022,29539,1,0,No,29539,0,0,0,4,Low
+CUST0619,Rohan Patel_619,Lloyd HD Ready,50,Central,Distributor,EMI,1,11-09-2024,31135,1,0,No,31135,1,1023,0,4,High
+CUST0620,Riya Singh_620,Lloyd HD Ready,32,East,Retail Store,UPI,3,29-08-2025,12513,1,0,No,12513,0,0,0,4,Low
+CUST0621,Rohan Malhotra_621,Lloyd OLED,43,South,Distributor,UPI,3,24-09-2024,42376,1,0,No,42376,0,0,0,4,Medium
+CUST0622,Aarav Verma_622,Lloyd Smart LED,43,North,Distributor,UPI,1,06-04-2023,29923,1,0,No,29923,0,0,0,3,Low
+CUST0623,Ananya Gupta_623,Lloyd HD Ready,32,West,Distributor,UPI,3,09-12-2023,11141,1,0,No,11141,0,0,1,4,Low
+CUST0624,Aryan Khanna_624,Lloyd HD Ready,55,North,Retail Store,Cash,2,05-06-2024,42974,1,0,No,42974,0,0,0,4,Medium
+CUST0625,Rohan Singh_625,Lloyd Smart LED,43,South,Retail Store,UPI,3,20-01-2025,30393,1,0,No,30393,0,0,0,3,Low
+CUST0626,Anjali Chopra_626,Lloyd Smart LED,55,Central,Distributor,Cash,2,11-12-2024,58554,1,0,No,58554,0,0,0,4,Medium
+CUST0627,Kavya Chopra_627,Lloyd HD Ready,32,Central,Distributor,Cash,3,04-06-2023,12176,1,0,No,12176,0,0,0,5,Low
+CUST0628,Siddharth Kumar_628,Lloyd Smart LED,55,Central,Retail Store,UPI,1,22-03-2024,53964,1,0,No,53964,1,494,0,4,High
+CUST0629,Aryan Malhotra_629,Lloyd HD Ready,40,West,Online,Debit Card,1,26-01-2025,16611,1,0,No,16611,0,0,0,4,Low
+CUST0630,Aarav Jain_630,Lloyd HD Ready,50,East,Distributor,UPI,3,24-08-2022,34325,1,0,No,34325,0,0,0,5,Low
+CUST0631,Aryan Nair_631,Lloyd OLED,75,East,Online,UPI,1,15-07-2024,178677,1,0,No,178677,1,1499,0,4,High
+CUST0632,Anjali Jain_632,Lloyd UltraHD 4K,43,North,Distributor,UPI,3,11-07-2023,34736,1,0,No,34736,1,657,0,4,High
+CUST0633,Ishaan Patel_633,Lloyd HD Ready,65,West,Online,Debit Card,1,11-10-2023,66491,1,0,No,66491,0,0,0,4,Medium
+CUST0634,Aarav Nair_634,Lloyd Full HD,50,Central,Online,Credit Card,2,22-08-2022,39487,1,0,No,39487,0,0,0,4,Medium
+CUST0635,Aarav Desai_635,Lloyd UltraHD 4K,75,Central,Online,Credit Card,3,21-11-2024,147428,1,0,No,147428,0,0,0,5,High
+CUST0636,Siddharth Khanna_636,Lloyd UltraHD 4K,55,South,Retail Store,Cash,2,05-08-2025,64644,1,0,No,64644,0,0,0,5,Medium
+CUST0637,Ananya Sharma_637,Lloyd UltraHD 4K,43,South,Online,Cash,2,02-08-2023,35066,1,0,No,35066,1,810,0,4,High
+CUST0638,Ishaan Jain_638,Lloyd OLED,55,Central,Online,Debit Card,3,26-06-2023,77922,1,0,No,77922,0,0,0,4,High
+CUST0639,Vivaan Nair_639,Lloyd HD Ready,40,Central,Online,EMI,2,24-04-2022,15349,1,0,No,15349,0,0,1,2,Low
+CUST0640,Priya Roy_640,Lloyd OLED,32,West,Distributor,Credit Card,3,23-07-2022,22508,1,0,No,22508,0,0,0,4,Low
+CUST0641,Kabir Singh_641,Lloyd HD Ready,43,East,Online,Cash,2,18-11-2024,22149,1,0,No,22149,0,0,0,3,Low
+CUST0642,Neha Chatterjee_642,Lloyd OLED,75,South,Distributor,Credit Card,3,05-10-2023,181812,1,0,No,181812,0,0,0,4,High
+CUST0643,Sana Roy_643,Lloyd OLED,75,East,Online,Debit Card,3,19-04-2023,192562,1,0,No,192562,0,0,0,4,High
+CUST0644,Kavya Patel_644,Lloyd Full HD,40,West,Online,Debit Card,1,28-11-2023,19629,1,0,No,19629,1,1481,0,2,High
+CUST0645,Riya Roy_645,Lloyd OLED,40,Central,Retail Store,EMI,3,10-09-2022,34549,1,0,No,34549,0,0,0,5,Low
+CUST0646,Siddharth Malhotra_646,Lloyd Smart LED,43,East,Distributor,EMI,3,23-06-2024,28144,1,0,No,28144,0,0,0,4,Low
+CUST0647,Vivaan Roy_647,Lloyd Full HD,55,Central,Online,Debit Card,2,21-01-2023,50070,1,0,No,50070,0,0,0,4,Medium
+CUST0648,Arjun Chatterjee_648,Lloyd OLED,65,Central,Distributor,Cash,3,03-03-2022,123496,1,0,No,123496,0,0,0,4,High
+CUST0649,Aarav Verma_649,Lloyd UltraHD 4K,75,North,Distributor,Credit Card,1,30-05-2023,132592,1,0,No,132592,1,588,0,4,High
+CUST0650,Neha Iyer_650,Lloyd Smart LED,75,East,Retail Store,UPI,2,06-03-2023,123276,1,0,No,123276,1,1412,0,4,High
+CUST0651,Priya Patel_651,Lloyd Smart LED,40,East,Retail Store,EMI,2,03-08-2023,24710,1,0,No,24710,1,989,0,3,High
+CUST0652,Neha Chatterjee_652,Lloyd Smart LED,50,Central,Retail Store,UPI,1,10-03-2025,44828,1,0,No,44828,0,0,0,4,Medium
+CUST0653,Aditya Singh_653,Lloyd Full HD,40,West,Retail Store,Cash,2,13-01-2024,19071,1,0,No,19071,0,0,0,4,Low
+CUST0654,Ananya Malhotra_654,Lloyd OLED,65,North,Retail Store,EMI,2,16-08-2025,133614,1,0,No,133614,0,0,0,5,High
+CUST0655,Aryan Singh_655,Lloyd OLED,55,Central,Retail Store,UPI,2,06-11-2023,82915,1,0,No,82915,0,0,1,4,High
+CUST0656,Aryan Jain_656,Lloyd UltraHD 4K,55,South,Retail Store,Cash,2,07-11-2022,66463,1,0,No,66463,0,0,0,4,Medium
+CUST0657,Mira Khanna_657,Lloyd UltraHD 4K,50,South,Retail Store,Credit Card,1,16-04-2023,48561,1,0,Yes,48561,0,0,0,4,Medium
+CUST0658,Anjali Kumar_658,Lloyd Smart LED,75,North,Online,Cash,1,19-03-2024,127892,1,0,No,127892,0,0,0,5,High
+CUST0659,Isha Malhotra_659,Lloyd UltraHD 4K,40,West,Distributor,EMI,2,21-06-2022,27819,1,0,No,27819,0,0,0,4,Low
+CUST0660,Pooja Mehta_660,Lloyd Full HD,55,Central,Retail Store,Debit Card,2,30-07-2023,47970,1,0,No,47970,1,120,0,4,High
+CUST0661,Riya Roy_661,Lloyd OLED,65,East,Retail Store,Credit Card,1,31-01-2022,127374,1,0,No,127374,1,1106,0,4,High
+CUST0662,Mira Bose_662,Lloyd Smart LED,43,North,Distributor,UPI,1,16-02-2022,28530,1,0,No,28530,0,0,0,4,Low
+CUST0663,Kabir Patel_663,Lloyd UltraHD 4K,32,West,Online,EMI,1,10-05-2022,17411,1,0,No,17411,0,0,0,3,Low
+CUST0664,Anjali Chopra_664,Lloyd Full HD,32,East,Distributor,Debit Card,2,18-12-2022,12753,1,0,No,12753,0,0,0,4,Low
+CUST0665,Priya Chatterjee_665,Lloyd Full HD,32,South,Distributor,Cash,2,04-09-2024,12976,1,0,No,12976,0,0,0,3,Low
+CUST0666,Siddharth Bose_666,Lloyd UltraHD 4K,75,South,Retail Store,Debit Card,3,27-02-2022,126986,1,0,No,126986,0,0,0,4,High
+CUST0667,Ananya Chatterjee_667,Lloyd OLED,40,East,Distributor,EMI,1,03-02-2025,30619,1,0,No,30619,0,0,0,4,Low
+CUST0668,Isha Bose_668,Lloyd UltraHD 4K,50,North,Distributor,EMI,2,22-03-2024,53876,1,0,No,53876,0,0,0,5,Medium
+CUST0669,Kabir Kumar_669,Lloyd Smart LED,55,South,Retail Store,Debit Card,1,07-02-2024,52878,1,0,No,52878,0,0,0,4,Medium
+CUST0670,Priya Kumar_670,Lloyd UltraHD 4K,43,Central,Retail Store,Cash,2,14-11-2023,33895,1,0,No,33895,0,0,0,4,Low
+CUST0671,Krishna Desai_671,Lloyd Full HD,65,East,Retail Store,Debit Card,1,31-03-2025,78323,1,0,No,78323,1,889,0,4,High
+CUST0672,Aryan Naik_672,Lloyd UltraHD 4K,43,East,Retail Store,EMI,2,23-09-2024,33170,1,0,No,33170,0,0,0,5,Low
+CUST0673,Aditya Singh_673,Lloyd OLED,65,South,Distributor,EMI,3,13-10-2022,114075,3,0,No,342225,0,0,0,3,High
+CUST0674,Aditya Singh_674,Lloyd HD Ready,75,North,Distributor,UPI,3,30-12-2024,95906,1,0,No,95906,0,0,0,4,High
+CUST0675,Priya Patel_675,Lloyd UltraHD 4K,40,Central,Online,UPI,1,04-06-2024,26313,1,0,No,26313,0,0,0,3,Low
+CUST0676,Sana Nair_676,Lloyd OLED,32,North,Online,Credit Card,2,01-02-2023,23990,1,0,No,23990,0,0,0,4,Low
+CUST0677,Anjali Verma_677,Lloyd OLED,40,West,Distributor,EMI,2,26-01-2022,35440,1,0,No,35440,1,1257,0,4,High
+CUST0678,Kavya Rao_678,Lloyd Full HD,75,West,Online,UPI,1,09-11-2022,120428,1,0,No,120428,0,0,0,4,High
+CUST0679,Anjali Kumar_679,Lloyd OLED,50,South,Distributor,Debit Card,2,06-05-2022,65186,2,0,No,130372,0,0,0,4,High
+CUST0680,Kabir Bose_680,Lloyd OLED,50,South,Online,Cash,1,06-05-2025,62264,1,0,No,62264,1,585,1,5,High
+CUST0681,Sana Bose_681,Lloyd OLED,75,South,Retail Store,Debit Card,2,21-03-2024,188944,1,0,No,188944,0,0,0,4,High
+CUST0682,Vivaan Mehta_682,Lloyd OLED,65,West,Online,Cash,1,07-07-2022,112042,2,0,No,224084,0,0,0,4,High
+CUST0683,Mira Mehta_683,Lloyd Smart LED,55,North,Retail Store,UPI,2,29-11-2023,60031,1,0,No,60031,1,185,0,5,High
+CUST0684,Sana Patel_684,Lloyd Smart LED,55,North,Retail Store,Credit Card,1,20-03-2024,51535,1,0,No,51535,0,0,0,5,Medium
+CUST0685,Kavya Roy_685,Lloyd Full HD,65,South,Retail Store,Debit Card,2,17-12-2023,70960,1,0,No,70960,0,0,0,4,High
+CUST0686,Rohan Nair_686,Lloyd UltraHD 4K,50,Central,Retail Store,Debit Card,3,26-03-2023,52316,1,0,No,52316,0,0,1,5,Medium
+CUST0687,Neha Gupta_687,Lloyd OLED,50,North,Online,Debit Card,2,07-06-2023,65486,1,0,No,65486,0,0,0,2,Medium
+CUST0688,Kabir Desai_688,Lloyd UltraHD 4K,50,West,Distributor,Cash,1,12-09-2024,48238,2,0,No,96476,0,0,0,4,High
+CUST0689,Anjali Desai_689,Lloyd UltraHD 4K,40,East,Retail Store,UPI,3,20-10-2023,25671,1,0,No,25671,1,31,0,5,High
+CUST0690,Kabir Jain_690,Lloyd Full HD,50,East,Online,Debit Card,2,20-08-2023,41236,1,0,No,41236,0,0,0,4,Medium
+CUST0691,Kavya Gupta_691,Lloyd OLED,43,East,Retail Store,Debit Card,3,10-04-2022,41496,1,0,No,41496,0,0,0,4,Medium
+CUST0692,Priya Rao_692,Lloyd OLED,32,Central,Online,Credit Card,2,08-09-2023,24613,1,0,No,24613,0,0,0,4,Low
+CUST0693,Mira Malhotra_693,Lloyd HD Ready,50,South,Online,Credit Card,3,05-08-2024,29535,1,0,No,29535,0,0,0,4,Low
+CUST0694,Anjali Sharma_694,Lloyd UltraHD 4K,65,West,Online,UPI,1,10-07-2023,98933,1,0,No,98933,0,0,0,4,High
+CUST0695,Mira Jain_695,Lloyd UltraHD 4K,32,Central,Distributor,UPI,2,05-10-2022,18794,1,0,No,18794,0,0,0,4,Low
+CUST0696,Aarav Reddy_696,Lloyd Smart LED,40,West,Online,EMI,2,06-05-2023,22091,1,0,No,22091,1,1410,1,5,High
+CUST0697,Krishna Mehta_697,Lloyd HD Ready,65,West,Online,Credit Card,1,12-09-2022,60364,1,0,No,60364,0,0,0,4,Medium
+CUST0698,Ananya Desai_698,Lloyd Smart LED,32,South,Distributor,EMI,3,16-01-2023,15011,1,0,No,15011,1,854,0,4,High
+CUST0699,Aarav Reddy_699,Lloyd Smart LED,65,East,Distributor,Cash,1,10-06-2024,89150,1,0,No,89150,0,0,0,5,High
+CUST0700,Aryan Khanna_700,Lloyd Smart LED,40,South,Online,EMI,1,26-06-2023,23725,1,0,No,23725,1,831,0,4,High
+CUST0701,Isha Singh_701,Lloyd Full HD,43,Central,Distributor,Debit Card,3,11-07-2025,26386,1,0,No,26386,0,0,0,3,Low
+CUST0702,Aryan Sharma_702,Lloyd Full HD,40,Central,Retail Store,EMI,1,04-04-2024,18994,1,0,No,18994,0,0,0,3,Low
+CUST0703,Aditya Roy_703,Lloyd Smart LED,40,Central,Retail Store,UPI,2,28-05-2024,22230,1,0,No,22230,0,0,0,4,Low
+CUST0704,Rohan Iyer_704,Lloyd HD Ready,65,South,Distributor,Cash,2,12-02-2025,55697,1,0,No,55697,0,0,0,3,Medium
+CUST0705,Priya Chatterjee_705,Lloyd UltraHD 4K,75,West,Distributor,Debit Card,2,23-07-2025,135849,1,0,No,135849,0,0,0,3,High
+CUST0706,Ananya Reddy_706,Lloyd HD Ready,55,West,Online,EMI,1,08-10-2022,40246,1,0,No,40246,0,0,0,4,Medium
+CUST0707,Sana Mehta_707,Lloyd OLED,50,North,Distributor,Cash,2,22-07-2025,68769,1,0,No,68769,0,0,0,4,Medium
+CUST0708,Ananya Khanna_708,Lloyd Full HD,50,Central,Online,Cash,2,12-02-2024,39817,1,0,No,39817,0,0,0,4,Medium
+CUST0709,Mira Singh_709,Lloyd UltraHD 4K,43,West,Retail Store,Debit Card,2,22-04-2024,32427,1,0,No,32427,0,0,0,5,Low
+CUST0710,Vivaan Nair_710,Lloyd UltraHD 4K,43,North,Distributor,EMI,2,20-12-2023,35762,1,0,No,35762,0,0,0,4,Medium
+CUST0711,Ishaan Malhotra_711,Lloyd OLED,50,West,Online,Cash,2,24-11-2022,67022,2,0,No,134044,0,0,0,4,High
+CUST0712,Vivaan Singh_712,Lloyd OLED,55,Central,Online,Cash,2,30-07-2022,86270,1,0,No,86270,0,0,0,4,High
+CUST0713,Krishna Chatterjee_713,Lloyd Smart LED,50,East,Retail Store,Credit Card,1,28-12-2023,45225,1,0,No,45225,0,0,0,5,Medium
+CUST0714,Priya Naik_714,Lloyd Full HD,75,Central,Distributor,Cash,2,11-07-2024,104952,1,0,No,104952,0,0,0,1,High
+CUST0715,Mira Chatterjee_715,Lloyd Full HD,55,South,Retail Store,Credit Card,2,06-07-2023,43550,1,0,No,43550,0,0,0,5,Medium
+CUST0716,Priya Jain_716,Lloyd HD Ready,43,West,Online,EMI,3,26-01-2022,22369,1,0,No,22369,0,0,0,3,Low
+CUST0717,Rohan Roy_717,Lloyd Smart LED,32,West,Online,EMI,1,27-01-2022,14872,1,0,Yes,14872,0,0,0,5,Low
+CUST0718,Kabir Desai_718,Lloyd Smart LED,65,South,Distributor,EMI,1,03-12-2023,82366,1,0,No,82366,0,0,0,4,High
+CUST0719,Priya Patel_719,Lloyd Smart LED,75,South,Online,UPI,1,11-01-2025,129338,1,0,No,129338,0,0,0,4,High
+CUST0720,Arjun Khanna_720,Lloyd Smart LED,75,East,Distributor,EMI,1,13-11-2023,130143,1,0,No,130143,0,0,0,4,High
+CUST0721,Neha Roy_721,Lloyd Full HD,43,West,Retail Store,Cash,2,17-02-2023,26210,3,0,No,78630,0,0,0,4,High
+CUST0722,Arjun Verma_722,Lloyd Full HD,43,West,Distributor,Debit Card,2,16-06-2022,24021,1,0,No,24021,1,1012,1,4,High
+CUST0723,Siddharth Iyer_723,Lloyd Smart LED,40,East,Distributor,Credit Card,3,18-06-2022,23006,1,0,No,23006,0,0,0,4,Low
+CUST0724,Mira Verma_724,Lloyd HD Ready,75,North,Online,UPI,3,17-08-2022,93909,1,0,No,93909,0,0,0,4,High
+CUST0725,Aarav Chopra_725,Lloyd UltraHD 4K,40,East,Online,EMI,1,02-01-2023,28183,1,0,No,28183,0,0,0,2,Low
+CUST0726,Arjun Chopra_726,Lloyd UltraHD 4K,40,Central,Distributor,EMI,3,12-06-2023,26957,1,0,No,26957,0,0,0,1,Low
+CUST0727,Aryan Jain_727,Lloyd HD Ready,65,West,Online,Debit Card,3,01-03-2024,66271,1,0,No,66271,0,0,0,4,Medium
+CUST0728,Arjun Kumar_728,Lloyd Smart LED,40,South,Online,Debit Card,1,08-06-2023,24773,1,0,No,24773,0,0,0,3,Low
+CUST0729,Kabir Sharma_729,Lloyd Full HD,55,Central,Online,UPI,1,31-12-2024,48594,1,0,No,48594,0,0,1,4,Medium
+CUST0730,Neha Bose_730,Lloyd UltraHD 4K,50,West,Distributor,Credit Card,3,16-04-2022,46290,1,0,No,46290,0,0,0,4,Medium
+CUST0731,Ishaan Nair_731,Lloyd OLED,32,East,Online,EMI,2,02-01-2024,23700,2,0,No,47400,0,0,0,4,Medium
+CUST0732,Isha Rao_732,Lloyd OLED,43,Central,Distributor,UPI,3,22-08-2024,43876,1,0,No,43876,0,0,0,3,Medium
+CUST0733,Siddharth Roy_733,Lloyd HD Ready,55,West,Online,Cash,3,29-07-2025,40579,1,0,No,40579,1,1111,0,4,High
+CUST0734,Anjali Desai_734,Lloyd Smart LED,32,North,Retail Store,Cash,2,13-05-2022,16032,1,0,No,16032,0,0,0,3,Low
+CUST0735,Aditya Iyer_735,Lloyd UltraHD 4K,75,North,Online,UPI,2,18-06-2023,141550,1,0,No,141550,0,0,0,2,High
+CUST0736,Vivaan Bose_736,Lloyd Smart LED,75,South,Online,EMI,1,01-09-2024,124347,1,0,No,124347,0,0,0,2,High
+CUST0737,Aarav Chatterjee_737,Lloyd UltraHD 4K,75,West,Distributor,UPI,1,26-09-2022,141293,1,0,Yes,141293,0,0,0,5,High
+CUST0738,Aditya Kumar_738,Lloyd HD Ready,55,North,Distributor,EMI,3,04-11-2023,37420,1,0,No,37420,0,0,0,3,Medium
+CUST0739,Kavya Bose_739,Lloyd HD Ready,55,East,Online,Debit Card,2,01-03-2024,42160,1,0,No,42160,0,0,0,4,Medium
+CUST0740,Kavya Iyer_740,Lloyd OLED,43,West,Retail Store,UPI,1,18-01-2022,40200,1,0,No,40200,0,0,0,3,Medium
+CUST0741,Priya Mehta_741,Lloyd Smart LED,50,East,Online,EMI,3,27-04-2022,41321,1,0,No,41321,0,0,0,3,Medium
+CUST0742,Kabir Iyer_742,Lloyd OLED,40,East,Online,UPI,2,08-03-2024,33239,2,0,No,66478,0,0,0,4,Medium
+CUST0743,Aarav Kumar_743,Lloyd Smart LED,75,North,Retail Store,UPI,3,13-03-2025,132509,1,0,No,132509,0,0,0,4,High
+CUST0744,Ishaan Malhotra_744,Lloyd OLED,65,West,Distributor,EMI,1,05-07-2023,120905,1,0,No,120905,1,1307,0,5,High
+CUST0745,Riya Desai_745,Lloyd Full HD,50,Central,Online,EMI,1,17-07-2024,36868,1,0,No,36868,0,0,0,5,Medium
+CUST0746,Aditya Bose_746,Lloyd Full HD,65,North,Distributor,Credit Card,2,23-01-2024,74277,2,0,No,148554,1,1233,0,4,High
+CUST0747,Kabir Gupta_747,Lloyd Full HD,43,North,Distributor,UPI,3,26-02-2023,24932,1,0,No,24932,1,522,0,4,High
+CUST0748,Priya Khanna_748,Lloyd Full HD,43,West,Retail Store,Cash,2,08-10-2023,27885,1,0,No,27885,0,0,0,4,Low
+CUST0749,Isha Roy_749,Lloyd UltraHD 4K,43,West,Retail Store,UPI,1,12-07-2023,35565,1,0,No,35565,0,0,0,4,Medium
+CUST0750,Aditya Iyer_750,Lloyd Full HD,32,East,Distributor,UPI,1,19-02-2022,13776,1,0,No,13776,0,0,0,5,Low
+CUST0751,Arjun Kumar_751,Lloyd HD Ready,65,West,Online,EMI,3,09-11-2023,59134,1,0,No,59134,0,0,0,4,Medium
+CUST0752,Siddharth Kumar_752,Lloyd HD Ready,50,East,Distributor,UPI,3,16-04-2022,33623,1,0,No,33623,0,0,0,4,Low
+CUST0753,Ishaan Singh_753,Lloyd UltraHD 4K,50,North,Online,UPI,3,24-05-2025,44790,2,0,No,89580,0,0,0,4,High
+CUST0754,Pooja Patel_754,Lloyd Full HD,55,South,Online,Cash,2,20-10-2023,47499,1,0,No,47499,0,0,1,2,Medium
+CUST0755,Pooja Roy_755,Lloyd Full HD,55,Central,Retail Store,EMI,3,31-12-2024,46203,1,0,No,46203,0,0,0,5,Medium
+CUST0756,Rohan Desai_756,Lloyd Full HD,75,North,Online,UPI,3,14-09-2024,119243,1,0,No,119243,0,0,0,4,High
+CUST0757,Sana Nair_757,Lloyd OLED,55,West,Online,Debit Card,1,21-04-2024,71947,1,0,No,71947,0,0,0,4,High
+CUST0758,Siddharth Patel_758,Lloyd Smart LED,43,Central,Distributor,Credit Card,1,22-03-2023,30298,2,0,No,60596,0,0,0,3,Medium
+CUST0759,Aryan Jain_759,Lloyd OLED,50,South,Retail Store,Cash,3,24-04-2025,67292,1,0,No,67292,1,698,0,5,High
+CUST0760,Rohan Reddy_760,Lloyd Smart LED,65,South,Online,UPI,3,11-03-2022,85428,1,0,No,85428,0,0,0,2,High
+CUST0761,Mira Nair_761,Lloyd Full HD,43,East,Online,Debit Card,1,30-05-2022,23614,1,0,No,23614,0,0,0,5,Low
+CUST0762,Aditya Reddy_762,Lloyd Full HD,32,Central,Retail Store,UPI,3,23-06-2025,15045,1,0,No,15045,0,0,0,3,Low
+CUST0763,Neha Chatterjee_763,Lloyd OLED,55,East,Distributor,UPI,2,13-02-2024,79840,1,0,No,79840,0,0,0,5,High
+CUST0764,Kavya Khanna_764,Lloyd OLED,43,North,Retail Store,EMI,2,27-01-2025,43799,1,0,No,43799,1,1088,0,4,High
+CUST0765,Riya Khanna_765,Lloyd Smart LED,43,Central,Retail Store,EMI,2,25-07-2025,28439,1,0,No,28439,1,104,0,3,High
+CUST0766,Mira Kumar_766,Lloyd HD Ready,32,North,Online,EMI,3,01-08-2024,11437,1,0,No,11437,0,0,0,4,Low
+CUST0767,Ananya Nair_767,Lloyd Smart LED,40,East,Online,Debit Card,1,31-03-2023,23234,1,0,No,23234,1,973,0,4,High
+CUST0768,Riya Singh_768,Lloyd OLED,50,Central,Distributor,UPI,3,01-02-2025,58903,1,0,No,58903,1,1342,0,3,High
+CUST0769,Neha Chatterjee_769,Lloyd OLED,65,East,Online,Credit Card,3,03-08-2024,112947,1,0,No,112947,0,0,0,5,High
+CUST0770,Arjun Jain_770,Lloyd UltraHD 4K,75,Central,Online,Cash,1,24-08-2023,150074,1,0,No,150074,0,0,0,4,High
+CUST0771,Kavya Verma_771,Lloyd OLED,40,East,Retail Store,EMI,1,15-10-2023,31942,1,0,No,31942,1,400,0,4,High
+CUST0772,Sana Roy_772,Lloyd UltraHD 4K,55,South,Online,EMI,1,26-12-2023,57347,1,0,Yes,57347,0,0,0,3,Medium
+CUST0773,Aditya Mehta_773,Lloyd HD Ready,43,East,Distributor,UPI,2,21-08-2022,21440,1,0,No,21440,0,0,0,4,Low
+CUST0774,Riya Chatterjee_774,Lloyd Smart LED,32,South,Retail Store,UPI,3,08-09-2022,16911,1,0,No,16911,1,616,0,5,High
+CUST0775,Vivaan Verma_775,Lloyd Smart LED,32,East,Distributor,Debit Card,1,20-03-2022,14685,1,0,No,14685,0,0,0,4,Low
+CUST0776,Sana Mehta_776,Lloyd UltraHD 4K,50,Central,Retail Store,Debit Card,3,11-12-2024,50007,1,0,No,50007,0,0,0,5,Medium
+CUST0777,Aditya Singh_777,Lloyd Smart LED,40,Central,Online,EMI,2,16-06-2024,21802,1,0,No,21802,0,0,0,5,Low
+CUST0778,Mira Malhotra_778,Lloyd OLED,75,Central,Retail Store,UPI,2,09-07-2024,166912,1,0,No,166912,0,0,0,3,High
+CUST0779,Pooja Iyer_779,Lloyd Full HD,50,West,Retail Store,Credit Card,1,20-02-2024,35174,1,0,No,35174,1,358,0,3,High
+CUST0780,Riya Khanna_780,Lloyd UltraHD 4K,43,North,Online,Cash,1,14-08-2022,34996,1,0,No,34996,0,0,0,5,Low
+CUST0781,Anjali Verma_781,Lloyd Smart LED,50,Central,Online,UPI,3,10-12-2024,41612,1,0,No,41612,0,0,0,4,Medium
+CUST0782,Riya Khanna_782,Lloyd UltraHD 4K,65,South,Distributor,UPI,1,24-04-2025,85470,3,0,No,256410,0,0,0,1,High
+CUST0783,Rohan Kumar_783,Lloyd UltraHD 4K,32,Central,Distributor,Debit Card,3,23-11-2024,17380,1,0,No,17380,1,619,0,4,High
+CUST0784,Mira Naik_784,Lloyd Full HD,32,West,Online,Cash,1,13-03-2024,14698,1,0,No,14698,0,0,0,4,Low
+CUST0785,Pooja Nair_785,Lloyd OLED,55,South,Online,EMI,3,12-01-2024,75853,1,0,No,75853,0,0,0,4,High
+CUST0786,Vivaan Chatterjee_786,Lloyd UltraHD 4K,55,West,Online,UPI,3,11-05-2022,60059,1,0,No,60059,0,0,0,3,Medium
+CUST0787,Kabir Kumar_787,Lloyd Smart LED,75,South,Retail Store,EMI,3,19-10-2024,116926,1,0,No,116926,1,806,0,3,High
+CUST0788,Aditya Roy_788,Lloyd HD Ready,43,East,Retail Store,UPI,3,24-09-2023,21206,1,0,No,21206,0,0,0,5,Low
+CUST0789,Ishaan Verma_789,Lloyd UltraHD 4K,65,North,Retail Store,EMI,2,17-04-2024,95268,1,0,No,95268,0,0,0,4,High
+CUST0790,Siddharth Chatterjee_790,Lloyd UltraHD 4K,40,North,Online,Cash,3,29-01-2024,26164,1,0,No,26164,0,0,0,4,Low
+CUST0791,Riya Roy_791,Lloyd Full HD,50,West,Distributor,Debit Card,1,05-12-2023,37289,1,0,No,37289,0,0,0,4,Medium
+CUST0792,Pooja Malhotra_792,Lloyd OLED,75,North,Online,Cash,2,12-05-2023,176959,1,0,No,176959,0,0,0,4,High
+CUST0793,Ishaan Desai_793,Lloyd HD Ready,43,West,Retail Store,Credit Card,2,19-11-2022,19767,1,0,No,19767,0,0,0,4,Low
+CUST0794,Sana Mehta_794,Lloyd Smart LED,55,West,Retail Store,Debit Card,3,18-05-2025,54237,1,0,No,54237,0,0,0,4,Medium
+CUST0795,Isha Bose_795,Lloyd HD Ready,50,West,Online,Cash,2,07-09-2023,29606,1,0,No,29606,0,0,1,4,Low
+CUST0796,Ananya Malhotra_796,Lloyd Smart LED,55,North,Online,Credit Card,3,25-11-2022,58603,1,0,No,58603,0,0,0,4,Medium
+CUST0797,Vivaan Kumar_797,Lloyd OLED,50,West,Retail Store,UPI,1,13-05-2022,70135,1,0,No,70135,1,333,0,4,High
+CUST0798,Aditya Kumar_798,Lloyd Smart LED,40,North,Retail Store,UPI,3,14-04-2024,25733,1,0,No,25733,0,0,0,5,Low
+CUST0799,Kabir Rao_799,Lloyd Full HD,43,West,Retail Store,EMI,2,13-10-2023,27543,1,0,No,27543,0,0,0,4,Low
+CUST0800,Isha Mehta_800,Lloyd Full HD,50,Central,Online,Debit Card,1,01-05-2022,39317,1,0,No,39317,0,0,0,5,Medium
+CUST0801,Krishna Malhotra_801,Lloyd Full HD,65,West,Retail Store,UPI,3,29-08-2023,76332,1,0,No,76332,0,0,0,5,High
+CUST0802,Aryan Kumar_802,Lloyd Full HD,75,South,Retail Store,Debit Card,1,22-08-2024,105520,1,0,No,105520,0,0,0,4,High
+CUST0803,Aditya Khanna_803,Lloyd HD Ready,32,West,Distributor,UPI,1,09-05-2022,11769,1,0,No,11769,0,0,0,4,Low
+CUST0804,Aryan Desai_804,Lloyd OLED,65,East,Online,EMI,2,19-01-2025,121335,1,0,Yes,121335,1,608,0,4,High
+CUST0805,Arjun Iyer_805,Lloyd Smart LED,65,West,Distributor,Cash,1,29-01-2022,85377,1,0,No,85377,0,0,0,5,High
+CUST0806,Aryan Malhotra_806,Lloyd Smart LED,75,South,Distributor,EMI,2,23-12-2023,135015,1,0,No,135015,1,250,0,4,High
+CUST0807,Aditya Mehta_807,Lloyd Full HD,32,South,Retail Store,Credit Card,1,29-11-2022,13181,1,0,No,13181,0,0,0,4,Low
+CUST0808,Anjali Iyer_808,Lloyd Full HD,65,North,Online,UPI,3,13-08-2025,70819,1,0,No,70819,0,0,0,4,High
+CUST0809,Ananya Nair_809,Lloyd UltraHD 4K,50,Central,Retail Store,Credit Card,1,27-02-2025,53368,1,0,No,53368,0,0,0,4,Medium
+CUST0810,Pooja Singh_810,Lloyd OLED,50,West,Online,Credit Card,3,09-08-2025,58668,2,0,No,117336,0,0,0,3,High
+CUST0811,Priya Roy_811,Lloyd HD Ready,50,North,Distributor,Debit Card,3,11-04-2025,32039,1,0,No,32039,1,1008,0,4,High
+CUST0812,Sana Sharma_812,Lloyd Smart LED,32,Central,Online,UPI,1,01-08-2024,17365,1,0,No,17365,1,1217,0,4,High
+CUST0813,Sana Mehta_813,Lloyd UltraHD 4K,65,West,Retail Store,Credit Card,3,13-11-2024,95870,1,0,No,95870,0,0,0,4,High
+CUST0814,Ishaan Chopra_814,Lloyd UltraHD 4K,32,East,Retail Store,Cash,1,27-01-2025,17755,1,0,No,17755,0,0,0,4,Low
+CUST0815,Ananya Naik_815,Lloyd Smart LED,50,West,Retail Store,Credit Card,1,22-12-2022,42774,1,0,No,42774,0,0,0,4,Medium
+CUST0816,Rohan Gupta_816,Lloyd HD Ready,75,South,Online,Cash,3,19-05-2022,88978,1,0,No,88978,0,0,0,4,High
+CUST0817,Aryan Nair_817,Lloyd UltraHD 4K,65,South,Distributor,Debit Card,3,12-04-2025,100317,1,0,No,100317,0,0,0,2,High
+CUST0818,Aditya Mehta_818,Lloyd UltraHD 4K,65,East,Distributor,Credit Card,2,29-01-2022,94929,1,0,No,94929,0,0,0,5,High
+CUST0819,Kabir Roy_819,Lloyd OLED,55,North,Online,EMI,3,19-07-2024,79789,1,0,No,79789,0,0,0,5,High
+CUST0820,Anjali Roy_820,Lloyd HD Ready,55,Central,Retail Store,Debit Card,2,11-05-2023,36656,1,0,No,36656,0,0,0,4,Medium
+CUST0821,Vivaan Kumar_821,Lloyd UltraHD 4K,40,West,Distributor,Cash,3,10-10-2024,23357,1,0,No,23357,0,0,0,1,Low
+CUST0822,Mira Nair_822,Lloyd HD Ready,43,South,Retail Store,Debit Card,1,17-10-2023,23367,1,0,No,23367,0,0,0,3,Low
+CUST0823,Mira Iyer_823,Lloyd Smart LED,55,North,Online,Credit Card,3,07-04-2024,54348,1,0,No,54348,1,404,0,4,High
+CUST0824,Aryan Reddy_824,Lloyd Full HD,32,East,Retail Store,UPI,1,17-12-2022,14048,1,0,No,14048,0,0,0,4,Low
+CUST0825,Ishaan Malhotra_825,Lloyd UltraHD 4K,55,South,Distributor,UPI,1,08-07-2023,55969,1,0,No,55969,0,0,0,4,Medium
+CUST0826,Ishaan Chatterjee_826,Lloyd OLED,40,East,Distributor,Cash,1,26-10-2022,34868,1,0,No,34868,0,0,0,4,Low
+CUST0827,Vivaan Bose_827,Lloyd Smart LED,65,West,Retail Store,Cash,2,30-04-2025,92947,1,0,No,92947,0,0,0,4,High
+CUST0828,Sana Gupta_828,Lloyd HD Ready,40,Central,Online,UPI,3,05-03-2022,17079,1,0,No,17079,1,1273,0,4,High
+CUST0829,Riya Malhotra_829,Lloyd Smart LED,65,South,Retail Store,Cash,1,25-01-2024,79398,1,0,No,79398,1,1307,0,4,High
+CUST0830,Arjun Chatterjee_830,Lloyd UltraHD 4K,75,South,Online,Debit Card,1,09-02-2024,143015,1,0,No,143015,0,0,0,4,High
+CUST0831,Siddharth Rao_831,Lloyd HD Ready,75,West,Retail Store,EMI,2,23-05-2025,96594,1,0,No,96594,0,0,0,3,High
+CUST0832,Siddharth Mehta_832,Lloyd Full HD,65,North,Distributor,EMI,3,13-04-2024,72092,1,0,No,72092,0,0,0,4,High
+CUST0833,Neha Chopra_833,Lloyd Smart LED,43,Central,Online,Debit Card,3,15-06-2022,32221,1,0,No,32221,0,0,0,5,Low
+CUST0834,Sana Khanna_834,Lloyd UltraHD 4K,55,South,Online,EMI,2,09-06-2025,62774,2,0,Yes,125548,0,0,0,4,High
+CUST0835,Riya Chatterjee_835,Lloyd OLED,32,Central,Online,Credit Card,2,03-05-2025,24746,1,0,No,24746,0,0,0,5,Low
+CUST0836,Arjun Iyer_836,Lloyd HD Ready,32,South,Distributor,Debit Card,3,21-05-2023,11752,1,0,No,11752,0,0,0,4,Low
+CUST0837,Pooja Roy_837,Lloyd Smart LED,50,Central,Retail Store,Cash,2,03-03-2024,41729,2,0,No,83458,0,0,0,3,High
+CUST0838,Priya Reddy_838,Lloyd Smart LED,65,East,Distributor,Debit Card,3,20-08-2025,82482,1,0,No,82482,0,0,0,4,High
+CUST0839,Rohan Malhotra_839,Lloyd Full HD,32,South,Online,UPI,3,12-04-2024,12964,1,0,No,12964,0,0,0,4,Low
+CUST0840,Aryan Jain_840,Lloyd Full HD,43,Central,Retail Store,Cash,1,07-05-2024,27764,1,0,No,27764,1,217,0,4,High
+CUST0841,Vivaan Naik_841,Lloyd OLED,65,North,Distributor,UPI,1,16-03-2024,128649,1,0,No,128649,0,0,0,3,High
+CUST0842,Sana Rao_842,Lloyd OLED,43,East,Online,Cash,3,18-03-2025,44321,1,0,No,44321,1,1244,0,4,High
+CUST0843,Kabir Roy_843,Lloyd UltraHD 4K,32,East,Online,EMI,3,31-01-2024,16908,1,0,No,16908,0,0,0,3,Low
+CUST0844,Kabir Mehta_844,Lloyd UltraHD 4K,32,North,Distributor,Debit Card,3,12-04-2024,16504,1,0,Yes,16504,1,1442,0,3,High
+CUST0845,Aditya Reddy_845,Lloyd OLED,50,Central,Distributor,Credit Card,3,10-10-2022,67491,1,0,No,67491,0,0,0,4,Medium
+CUST0846,Krishna Chatterjee_846,Lloyd OLED,32,West,Distributor,Cash,3,14-01-2023,22833,1,0,No,22833,0,0,0,4,Low
+CUST0847,Pooja Nair_847,Lloyd HD Ready,65,North,Online,Cash,3,17-07-2022,57909,1,0,No,57909,0,0,0,5,Medium
+CUST0848,Priya Singh_848,Lloyd Full HD,75,Central,Distributor,UPI,2,11-10-2024,112679,1,0,No,112679,1,1268,0,4,High
+CUST0849,Siddharth Chatterjee_849,Lloyd UltraHD 4K,65,North,Online,EMI,3,20-10-2024,85382,1,0,No,85382,1,1428,0,4,High
+CUST0850,Sana Sharma_850,Lloyd Full HD,65,North,Distributor,UPI,2,10-07-2023,70936,1,0,No,70936,0,0,0,4,High
+CUST0851,Priya Verma_851,Lloyd Full HD,50,South,Online,UPI,2,22-12-2022,38318,1,0,No,38318,1,1139,0,4,High
+CUST0852,Isha Roy_852,Lloyd OLED,50,Central,Online,EMI,3,06-11-2024,59824,1,0,No,59824,0,0,0,4,Medium
+CUST0853,Sana Gupta_853,Lloyd HD Ready,32,West,Retail Store,Credit Card,3,01-10-2023,12565,1,0,No,12565,0,0,0,5,Low
+CUST0854,Isha Singh_854,Lloyd Smart LED,40,South,Distributor,UPI,2,14-01-2023,22218,1,0,No,22218,0,0,0,4,Low
+CUST0855,Sana Gupta_855,Lloyd HD Ready,40,North,Distributor,UPI,2,11-11-2023,15610,1,0,Yes,15610,0,0,0,5,Low
+CUST0856,Aarav Kumar_856,Lloyd HD Ready,50,North,Online,Cash,3,21-05-2023,30262,1,0,No,30262,0,0,0,4,Low
+CUST0857,Kabir Kumar_857,Lloyd Full HD,32,North,Online,EMI,3,17-06-2024,14496,1,0,Yes,14496,1,503,0,3,High
+CUST0858,Aryan Nair_858,Lloyd HD Ready,40,Central,Online,Debit Card,2,17-03-2022,16584,1,0,No,16584,0,0,0,4,Low
+CUST0859,Vivaan Mehta_859,Lloyd UltraHD 4K,32,Central,Retail Store,Credit Card,2,19-08-2022,17820,1,0,No,17820,0,0,0,1,Low
+CUST0860,Neha Nair_860,Lloyd Full HD,32,South,Retail Store,Credit Card,2,19-08-2024,12476,1,0,No,12476,1,873,0,4,High
+CUST0861,Neha Chatterjee_861,Lloyd UltraHD 4K,32,West,Online,EMI,1,25-06-2025,15988,1,0,No,15988,0,0,0,3,Low
+CUST0862,Mira Sharma_862,Lloyd Smart LED,55,South,Distributor,Cash,2,29-10-2022,55100,1,0,No,55100,0,0,0,4,Medium
+CUST0863,Aditya Sharma_863,Lloyd Full HD,65,East,Distributor,Cash,1,27-12-2023,77999,1,0,No,77999,0,0,0,5,High
+CUST0864,Krishna Chopra_864,Lloyd Smart LED,32,North,Retail Store,EMI,3,03-08-2022,17278,1,0,No,17278,0,0,0,4,Low
+CUST0865,Aryan Rao_865,Lloyd Full HD,55,North,Retail Store,Cash,3,27-03-2025,43867,1,0,No,43867,0,0,0,5,Medium
+CUST0866,Mira Roy_866,Lloyd OLED,50,North,Online,Credit Card,2,10-03-2022,64743,1,0,No,64743,0,0,0,4,Medium
+CUST0867,Priya Patel_867,Lloyd HD Ready,40,South,Distributor,Credit Card,3,28-01-2023,18193,1,0,No,18193,0,0,0,4,Low
+CUST0868,Arjun Gupta_868,Lloyd OLED,65,South,Online,Debit Card,3,13-01-2025,119711,1,0,No,119711,0,0,0,5,High
+CUST0869,Arjun Patel_869,Lloyd Smart LED,75,North,Retail Store,EMI,3,24-09-2022,136825,1,0,No,136825,0,0,0,5,High
+CUST0870,Vivaan Gupta_870,Lloyd HD Ready,40,South,Distributor,UPI,3,28-12-2024,15621,1,0,No,15621,1,560,0,4,High
+CUST0871,Priya Malhotra_871,Lloyd Full HD,65,Central,Distributor,UPI,1,03-09-2023,79709,1,0,Yes,79709,1,1100,0,4,High
+CUST0872,Riya Singh_872,Lloyd HD Ready,75,Central,Retail Store,Debit Card,1,05-10-2024,96325,1,0,No,96325,0,0,0,4,High
+CUST0873,Kabir Naik_873,Lloyd UltraHD 4K,40,South,Online,Debit Card,2,19-08-2024,28039,2,0,No,56078,0,0,0,4,Medium
+CUST0874,Mira Rao_874,Lloyd HD Ready,65,North,Online,Cash,2,29-12-2023,63319,1,0,No,63319,0,0,0,4,Medium
+CUST0875,Aarav Roy_875,Lloyd UltraHD 4K,40,South,Distributor,Debit Card,2,04-11-2023,25114,1,0,No,25114,1,1118,0,4,High
+CUST0876,Kavya Gupta_876,Lloyd HD Ready,40,South,Retail Store,Debit Card,3,27-02-2023,18275,2,0,No,36550,0,0,0,5,Medium
+CUST0877,Aryan Mehta_877,Lloyd UltraHD 4K,75,South,Distributor,UPI,3,12-04-2025,134565,1,0,No,134565,0,0,0,5,High
+CUST0878,Priya Sharma_878,Lloyd Smart LED,40,East,Retail Store,Cash,1,25-04-2022,22786,1,0,No,22786,0,0,0,4,Low
+CUST0879,Mira Desai_879,Lloyd OLED,40,Central,Online,Debit Card,1,08-08-2022,34985,1,0,Yes,34985,0,0,0,1,Low
+CUST0880,Siddharth Khanna_880,Lloyd Full HD,75,West,Retail Store,Debit Card,2,31-01-2022,115890,1,0,No,115890,0,0,0,5,High
+CUST0881,Priya Reddy_881,Lloyd HD Ready,50,West,Online,Cash,1,27-02-2025,34835,1,0,No,34835,1,992,0,3,High
+CUST0882,Aditya Roy_882,Lloyd OLED,32,East,Retail Store,EMI,1,09-09-2023,21621,1,0,No,21621,0,0,0,4,Low
+CUST0883,Sana Singh_883,Lloyd Full HD,43,South,Distributor,Cash,1,23-06-2023,27205,1,0,No,27205,0,0,0,2,Low
+CUST0884,Pooja Rao_884,Lloyd Full HD,55,East,Online,UPI,1,09-01-2024,49968,1,0,No,49968,0,0,0,4,Medium
+CUST0885,Pooja Roy_885,Lloyd UltraHD 4K,43,East,Distributor,EMI,1,22-10-2024,30034,1,0,No,30034,0,0,0,5,Low
+CUST0886,Anjali Sharma_886,Lloyd Smart LED,43,North,Distributor,Credit Card,2,20-05-2024,29324,2,0,No,58648,0,0,0,3,Medium
+CUST0887,Isha Naik_887,Lloyd Smart LED,65,Central,Online,Cash,2,11-04-2022,82030,2,0,No,164060,0,0,0,4,High
+CUST0888,Vivaan Iyer_888,Lloyd OLED,32,West,Online,UPI,1,17-12-2024,22070,1,0,No,22070,0,0,0,4,Low
+CUST0889,Sana Jain_889,Lloyd Smart LED,65,South,Distributor,EMI,2,23-11-2023,93793,1,0,No,93793,0,0,1,5,High
+CUST0890,Aarav Desai_890,Lloyd HD Ready,32,West,Distributor,Cash,3,29-07-2024,11796,1,0,Yes,11796,0,0,0,5,Low
+CUST0891,Aditya Desai_891,Lloyd Smart LED,75,West,Distributor,Debit Card,1,07-12-2022,134005,2,0,No,268010,1,504,0,4,High
+CUST0892,Siddharth Patel_892,Lloyd OLED,75,Central,Distributor,Cash,3,10-05-2024,200758,1,0,No,200758,0,0,0,3,High
+CUST0893,Kavya Kumar_893,Lloyd Smart LED,32,West,Online,Credit Card,2,09-11-2024,15678,1,0,No,15678,0,0,0,4,Low
+CUST0894,Aryan Verma_894,Lloyd HD Ready,40,West,Online,Cash,2,02-07-2025,17826,1,0,No,17826,0,0,0,4,Low
+CUST0895,Sana Rao_895,Lloyd UltraHD 4K,50,East,Distributor,EMI,3,07-02-2022,48633,1,0,No,48633,0,0,0,4,Medium
+CUST0896,Ananya Reddy_896,Lloyd OLED,40,Central,Retail Store,EMI,2,22-10-2023,36098,1,0,No,36098,0,0,0,2,Medium
+CUST0897,Riya Naik_897,Lloyd UltraHD 4K,50,North,Retail Store,Cash,1,16-07-2024,46181,1,0,No,46181,1,1199,0,3,High
+CUST0898,Ishaan Nair_898,Lloyd UltraHD 4K,65,South,Online,EMI,3,15-11-2024,102077,1,0,No,102077,0,0,0,4,High
+CUST0899,Aditya Chatterjee_899,Lloyd UltraHD 4K,50,West,Distributor,Debit Card,1,30-03-2023,46549,1,0,No,46549,0,0,0,4,Medium
+CUST0900,Vivaan Mehta_900,Lloyd Full HD,65,South,Distributor,Cash,3,07-01-2024,70937,1,0,No,70937,1,975,0,5,High
+CUST0901,Rohan Verma_901,Lloyd Full HD,75,North,Online,Debit Card,2,29-03-2024,115693,1,0,No,115693,0,0,0,2,High
+CUST0902,Rohan Verma_902,Lloyd UltraHD 4K,43,South,Retail Store,Debit Card,3,12-02-2024,32159,1,0,No,32159,0,0,0,4,Low
+CUST0903,Ananya Mehta_903,Lloyd OLED,75,North,Retail Store,UPI,3,13-01-2022,187495,1,0,No,187495,0,0,0,5,High
+CUST0904,Pooja Iyer_904,Lloyd HD Ready,75,East,Retail Store,Cash,1,03-07-2024,90802,1,0,Yes,90802,0,0,0,4,High
+CUST0905,Anjali Naik_905,Lloyd HD Ready,43,West,Online,EMI,2,09-07-2024,22437,1,0,No,22437,0,0,0,4,Low
+CUST0906,Krishna Verma_906,Lloyd Smart LED,50,North,Retail Store,Debit Card,1,04-04-2024,42585,1,0,No,42585,0,0,0,3,Medium
+CUST0907,Rohan Mehta_907,Lloyd OLED,50,South,Online,UPI,2,06-01-2023,58696,1,0,No,58696,1,1435,0,4,High
+CUST0908,Sana Verma_908,Lloyd Full HD,65,West,Online,Cash,1,07-08-2025,70558,1,0,No,70558,0,0,0,4,High
+CUST0909,Ananya Jain_909,Lloyd UltraHD 4K,40,East,Distributor,Cash,3,28-11-2022,25676,1,0,No,25676,0,0,0,4,Low
+CUST0910,Kabir Desai_910,Lloyd Smart LED,65,West,Retail Store,Credit Card,1,18-09-2022,80102,1,0,No,80102,0,0,0,5,High
+CUST0911,Priya Iyer_911,Lloyd HD Ready,40,North,Online,Credit Card,2,13-05-2025,16350,1,0,No,16350,0,0,0,4,Low
+CUST0912,Riya Iyer_912,Lloyd Full HD,75,East,Retail Store,Debit Card,2,28-11-2023,107999,1,0,No,107999,1,1119,0,4,High
+CUST0913,Ananya Reddy_913,Lloyd Full HD,43,South,Retail Store,Credit Card,3,18-11-2023,23473,1,0,No,23473,0,0,0,4,Low
+CUST0914,Neha Naik_914,Lloyd UltraHD 4K,75,East,Distributor,Debit Card,2,07-08-2024,143059,1,0,No,143059,0,0,0,4,High
+CUST0915,Sana Roy_915,Lloyd HD Ready,32,East,Retail Store,EMI,1,22-01-2023,12339,1,0,No,12339,0,0,0,3,Low
+CUST0916,Krishna Singh_916,Lloyd OLED,50,Central,Distributor,Debit Card,3,31-03-2024,59871,1,0,No,59871,1,546,0,4,High
+CUST0917,Priya Singh_917,Lloyd Full HD,40,East,Online,Credit Card,2,13-04-2023,20583,1,0,No,20583,0,0,1,4,Low
+CUST0918,Priya Malhotra_918,Lloyd UltraHD 4K,65,East,Retail Store,EMI,2,10-03-2022,96871,1,0,No,96871,0,0,0,4,High
+CUST0919,Ishaan Rao_919,Lloyd OLED,43,West,Online,Credit Card,1,01-02-2025,42162,1,0,No,42162,1,1146,0,4,High
+CUST0920,Arjun Kumar_920,Lloyd HD Ready,40,South,Retail Store,Debit Card,1,30-03-2025,17493,1,0,No,17493,0,0,0,4,Low
+CUST0921,Kabir Singh_921,Lloyd Full HD,65,West,Online,UPI,3,19-07-2022,72154,1,0,No,72154,0,0,0,5,High
+CUST0922,Ananya Mehta_922,Lloyd OLED,50,West,Retail Store,Cash,2,04-08-2022,64318,1,0,No,64318,0,0,1,4,Medium
+CUST0923,Arjun Chatterjee_923,Lloyd OLED,75,North,Retail Store,Credit Card,1,31-07-2022,165864,1,0,No,165864,0,0,0,4,High
+CUST0924,Mira Bose_924,Lloyd OLED,50,West,Retail Store,Debit Card,3,23-05-2023,66675,1,0,No,66675,0,0,0,4,Medium
+CUST0925,Ishaan Chatterjee_925,Lloyd Full HD,55,Central,Retail Store,EMI,2,16-01-2022,49246,1,0,No,49246,0,0,0,4,Medium
+CUST0926,Sana Chatterjee_926,Lloyd Full HD,32,Central,Retail Store,Credit Card,2,02-06-2024,12523,1,0,No,12523,0,0,0,4,Low
+CUST0927,Vivaan Desai_927,Lloyd Smart LED,55,North,Retail Store,Credit Card,3,28-11-2022,54253,1,0,No,54253,1,455,0,2,High
+CUST0928,Mira Bose_928,Lloyd HD Ready,43,South,Retail Store,Cash,3,18-12-2023,23431,1,0,No,23431,0,0,0,4,Low
+CUST0929,Krishna Verma_929,Lloyd UltraHD 4K,40,South,Retail Store,Debit Card,1,05-07-2023,25404,1,0,No,25404,0,0,0,4,Low
+CUST0930,Aditya Iyer_930,Lloyd OLED,43,West,Retail Store,UPI,2,30-07-2024,42856,1,0,No,42856,0,0,0,5,Medium
+CUST0931,Sana Roy_931,Lloyd Smart LED,75,West,Online,EMI,2,13-09-2022,138850,1,0,No,138850,0,0,1,4,High
+CUST0932,Ishaan Sharma_932,Lloyd UltraHD 4K,65,West,Distributor,Debit Card,2,18-09-2024,97837,1,0,No,97837,0,0,1,5,High
+CUST0933,Aryan Malhotra_933,Lloyd Smart LED,50,South,Retail Store,EMI,3,29-12-2023,45705,1,0,No,45705,0,0,0,4,Medium
+CUST0934,Riya Verma_934,Lloyd Full HD,55,East,Distributor,Credit Card,1,29-05-2024,50523,1,0,No,50523,0,0,0,4,Medium
+CUST0935,Aryan Singh_935,Lloyd OLED,55,Central,Retail Store,Cash,2,25-03-2024,85244,1,0,No,85244,0,0,0,4,High
+CUST0936,Siddharth Desai_936,Lloyd UltraHD 4K,75,East,Retail Store,Cash,3,10-04-2025,139570,1,0,No,139570,1,1147,0,5,High
+CUST0937,Sana Iyer_937,Lloyd UltraHD 4K,55,East,Online,UPI,2,11-10-2023,60698,1,0,No,60698,0,0,0,5,Medium
+CUST0938,Kavya Verma_938,Lloyd UltraHD 4K,75,South,Online,Cash,1,26-09-2024,137615,1,0,No,137615,0,0,0,3,High
+CUST0939,Mira Nair_939,Lloyd UltraHD 4K,43,East,Distributor,Credit Card,2,16-04-2023,35849,1,0,No,35849,0,0,0,4,Medium
+CUST0940,Riya Desai_940,Lloyd UltraHD 4K,50,North,Online,UPI,1,21-11-2023,51170,1,0,No,51170,0,0,0,4,Medium
+CUST0941,Sana Chatterjee_941,Lloyd Smart LED,40,West,Online,Debit Card,1,01-12-2023,21636,2,0,No,43272,0,0,0,2,Medium
+CUST0942,Aditya Khanna_942,Lloyd OLED,65,North,Distributor,Cash,2,22-05-2023,131111,1,0,No,131111,1,162,0,4,High
+CUST0943,Aryan Roy_943,Lloyd Full HD,40,Central,Online,UPI,2,18-09-2024,20119,1,0,No,20119,0,0,0,5,Low
+CUST0944,Sana Iyer_944,Lloyd Full HD,43,West,Retail Store,Credit Card,1,06-10-2024,23530,1,0,No,23530,0,0,0,4,Low
+CUST0945,Ananya Jain_945,Lloyd Full HD,65,East,Distributor,EMI,3,14-03-2024,74155,1,0,No,74155,1,1487,0,4,High
+CUST0946,Siddharth Patel_946,Lloyd Full HD,55,Central,Distributor,EMI,1,10-04-2024,46960,1,0,No,46960,1,1394,0,4,High
+CUST0947,Aarav Reddy_947,Lloyd Smart LED,32,West,Retail Store,Credit Card,2,02-08-2022,17254,1,0,No,17254,0,0,0,4,Low
+CUST0948,Neha Roy_948,Lloyd HD Ready,43,East,Online,Credit Card,2,16-05-2025,20176,1,0,No,20176,0,0,0,3,Low
+CUST0949,Isha Rao_949,Lloyd OLED,43,North,Distributor,EMI,3,18-06-2022,45582,1,0,No,45582,1,343,0,4,High
+CUST0950,Kabir Jain_950,Lloyd UltraHD 4K,50,West,Distributor,UPI,1,27-07-2025,49823,1,0,No,49823,0,0,0,5,Medium
+CUST0951,Krishna Chatterjee_951,Lloyd HD Ready,40,East,Retail Store,EMI,1,04-09-2024,15360,1,0,No,15360,0,0,0,4,Low
+CUST0952,Rohan Malhotra_952,Lloyd Full HD,43,North,Retail Store,Credit Card,1,21-08-2025,28082,1,0,No,28082,0,0,0,1,Low
+CUST0953,Arjun Naik_953,Lloyd HD Ready,43,Central,Online,Cash,2,26-05-2022,21472,1,0,No,21472,0,0,0,4,Low
+CUST0954,Rohan Patel_954,Lloyd OLED,55,Central,Distributor,Debit Card,1,31-05-2023,76297,1,0,No,76297,0,0,0,3,High
+CUST0955,Aryan Singh_955,Lloyd UltraHD 4K,55,Central,Online,Cash,3,18-01-2025,60630,1,0,No,60630,1,620,0,4,High
+CUST0956,Riya Reddy_956,Lloyd UltraHD 4K,65,Central,Online,Cash,2,29-03-2023,100424,1,0,No,100424,0,0,0,4,High
+CUST0957,Riya Singh_957,Lloyd OLED,75,South,Retail Store,Credit Card,2,01-03-2022,176576,1,0,No,176576,0,0,0,3,High
+CUST0958,Ananya Desai_958,Lloyd OLED,75,West,Distributor,EMI,1,27-08-2025,172536,1,0,No,172536,0,0,0,5,High
+CUST0959,Aditya Rao_959,Lloyd Full HD,32,West,Distributor,UPI,3,12-06-2023,12768,1,0,No,12768,0,0,0,4,Low
+CUST0960,Anjali Mehta_960,Lloyd UltraHD 4K,75,South,Distributor,Cash,2,04-06-2025,135180,2,0,No,270360,0,0,1,4,High
+CUST0961,Arjun Reddy_961,Lloyd HD Ready,50,East,Retail Store,EMI,2,20-10-2024,33894,3,0,No,101682,0,0,0,5,High
+CUST0962,Ishaan Desai_962,Lloyd Smart LED,32,East,Retail Store,UPI,1,19-04-2023,15975,1,0,No,15975,0,0,0,3,Low
+CUST0963,Pooja Gupta_963,Lloyd Smart LED,65,Central,Retail Store,Cash,1,27-01-2024,81101,1,0,No,81101,1,1265,0,5,High
+CUST0964,Kabir Chopra_964,Lloyd OLED,55,North,Retail Store,UPI,3,21-02-2024,74352,1,0,No,74352,1,1038,0,3,High
+CUST0965,Aryan Gupta_965,Lloyd Full HD,75,East,Retail Store,EMI,1,07-01-2025,106546,1,0,No,106546,0,0,0,4,High
+CUST0966,Neha Sharma_966,Lloyd Smart LED,40,North,Distributor,Debit Card,3,09-03-2023,25594,1,0,No,25594,1,188,0,5,High
+CUST0967,Sana Rao_967,Lloyd UltraHD 4K,55,West,Online,EMI,2,22-03-2025,59118,1,0,No,59118,1,1321,0,5,High
+CUST0968,Kavya Desai_968,Lloyd OLED,50,North,Distributor,Credit Card,3,05-02-2023,70410,2,0,No,140820,0,0,0,4,High
+CUST0969,Riya Rao_969,Lloyd HD Ready,55,West,Online,UPI,3,26-07-2025,39664,1,0,No,39664,0,0,0,4,Medium
+CUST0970,Aryan Malhotra_970,Lloyd OLED,50,South,Retail Store,Debit Card,3,26-02-2022,60217,1,0,No,60217,0,0,0,4,Medium
+CUST0971,Aditya Singh_971,Lloyd HD Ready,50,South,Online,UPI,2,29-09-2024,34594,1,0,No,34594,0,0,0,5,Low
+CUST0972,Arjun Iyer_972,Lloyd OLED,50,Central,Distributor,UPI,1,05-07-2022,63760,1,0,No,63760,1,690,0,3,High
+CUST0973,Neha Roy_973,Lloyd OLED,65,East,Distributor,Cash,2,02-02-2023,127432,1,0,No,127432,0,0,0,5,High
+CUST0974,Priya Bose_974,Lloyd OLED,50,Central,Online,Credit Card,1,28-08-2023,70354,1,0,No,70354,0,0,0,4,High
+CUST0975,Kavya Singh_975,Lloyd HD Ready,50,West,Retail Store,UPI,3,27-02-2024,29296,1,0,No,29296,0,0,0,4,Low
+CUST0976,Aryan Kumar_976,Lloyd HD Ready,40,Central,Retail Store,EMI,3,07-06-2022,15499,1,0,No,15499,0,0,0,4,Low
+CUST0977,Aditya Chatterjee_977,Lloyd OLED,32,North,Distributor,EMI,3,12-08-2023,23942,1,0,No,23942,0,0,0,4,Low
+CUST0978,Riya Roy_978,Lloyd Smart LED,43,West,Online,Cash,3,11-04-2023,28705,1,0,No,28705,0,0,0,5,Low
+CUST0979,Sana Nair_979,Lloyd Full HD,32,South,Retail Store,Credit Card,3,22-03-2023,12917,1,0,No,12917,0,0,0,4,Low
+CUST0980,Anjali Khanna_980,Lloyd Full HD,50,East,Retail Store,Credit Card,1,11-03-2024,35073,1,0,No,35073,0,0,0,5,Medium
+CUST0981,Ishaan Nair_981,Lloyd Full HD,40,West,Distributor,EMI,1,01-01-2025,18302,1,0,No,18302,0,0,0,3,Low
+CUST0982,Priya Roy_982,Lloyd HD Ready,55,West,Retail Store,Debit Card,3,17-07-2024,41920,1,0,No,41920,0,0,0,4,Medium
+CUST0983,Vivaan Patel_983,Lloyd HD Ready,40,North,Online,Cash,2,17-01-2022,15623,1,0,No,15623,0,0,0,5,Low
+CUST0984,Pooja Nair_984,Lloyd Smart LED,50,East,Distributor,Cash,2,01-01-2024,44697,1,0,No,44697,1,777,0,4,High
+CUST0985,Arjun Reddy_985,Lloyd Full HD,40,South,Distributor,EMI,3,22-11-2022,20615,1,0,No,20615,0,0,0,4,Low
+CUST0986,Ishaan Kumar_986,Lloyd Full HD,75,West,Online,EMI,1,21-09-2024,108612,1,0,No,108612,0,0,0,4,High
+CUST0987,Siddharth Desai_987,Lloyd OLED,40,West,Distributor,Debit Card,2,05-09-2023,30538,1,0,No,30538,1,830,0,5,High
+CUST0988,Pooja Mehta_988,Lloyd HD Ready,50,North,Retail Store,Debit Card,2,30-06-2023,33916,1,0,No,33916,1,439,0,5,High
+CUST0989,Aditya Jain_989,Lloyd Full HD,65,Central,Retail Store,Credit Card,2,19-08-2023,66391,1,0,No,66391,0,0,0,3,Medium
+CUST0990,Rohan Rao_990,Lloyd Smart LED,75,South,Online,Cash,3,09-07-2024,135119,1,0,No,135119,0,0,0,5,High
+CUST0991,Krishna Nair_991,Lloyd Smart LED,40,East,Retail Store,Cash,2,21-04-2024,25379,1,0,No,25379,1,1409,0,4,High
+CUST0992,Arjun Malhotra_992,Lloyd Full HD,43,West,Online,EMI,2,10-05-2025,25365,1,0,No,25365,0,0,0,4,Low
+CUST0993,Anjali Singh_993,Lloyd HD Ready,43,West,Online,Credit Card,2,10-12-2022,21569,2,0,No,43138,0,0,0,5,Medium
+CUST0994,Pooja Reddy_994,Lloyd Smart LED,40,South,Retail Store,Cash,2,08-05-2024,23455,1,0,No,23455,0,0,0,4,Low
+CUST0995,Kavya Khanna_995,Lloyd OLED,65,Central,Online,Credit Card,1,26-05-2025,119741,1,0,No,119741,0,0,1,5,High
+CUST0996,Aryan Reddy_996,Lloyd Smart LED,55,West,Retail Store,Credit Card,3,21-03-2023,59922,1,0,No,59922,1,709,0,4,High
+CUST0997,Mira Malhotra_997,Lloyd UltraHD 4K,50,South,Distributor,EMI,3,10-08-2022,53071,2,0,No,106142,0,0,0,1,High
+CUST0998,Ananya Khanna_998,Lloyd UltraHD 4K,43,North,Distributor,Credit Card,1,15-08-2023,31786,1,0,Yes,31786,1,1246,0,4,High
+CUST0999,Vivaan Sharma_999,Lloyd HD Ready,55,Central,Online,Debit Card,1,27-10-2024,40677,1,0,No,40677,0,0,0,3,Medium
+CUST1000,Aditya Verma_1000,Lloyd Full HD,40,East,Retail Store,Debit Card,3,19-07-2025,21886,1,0,No,21886,1,1324,0,4,High
